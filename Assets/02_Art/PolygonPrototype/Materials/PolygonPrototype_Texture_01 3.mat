@@ -85,7 +85,7 @@ Material:
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.22574759, g: 0.40760052, b: 0.8396226, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Opacity: {r: 0.5661765, g: 0.5661765, b: 0.5661765, a: 0}
