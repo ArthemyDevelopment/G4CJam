@@ -9,7 +9,7 @@ public class PickUpElementController : MonoBehaviour
     private bool alreadyPickedUp = false;
     public UnityEvent LocalOnPickElement;
     public EcholocationController Echolocation;
-
+    public Dialog dialog;
 
     private void OnEnable()
     {
@@ -25,6 +25,7 @@ public class PickUpElementController : MonoBehaviour
 
     public void PickUpElement()
     {
+        TriggerDialog();
         if (alreadyPickedUp) return;
         alreadyPickedUp = true;
         LocalOnPickElement.Invoke();
@@ -37,8 +38,14 @@ public class PickUpElementController : MonoBehaviour
         
     }
 
+    public void TriggerDialog()
+    {
+        DialogsManager.current.SetDialog(dialog);
+    }
+
     public void ShowEcholocation()
     {
+        if (alreadyPickedUp) return;
         Echolocation.TriggerEffect(transform.position);
     }
 }

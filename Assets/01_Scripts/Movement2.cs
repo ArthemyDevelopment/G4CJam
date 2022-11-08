@@ -12,7 +12,8 @@ public class Movement2 : MonoBehaviour
 
     public float movSpeed;
     public float jumpForce;
-    
+
+    public GameObject Shadow;
 
     [SerializeField] bool isGrounded;
     private Rigidbody rb;
@@ -28,10 +29,11 @@ public class Movement2 : MonoBehaviour
     {
         DetectFloor();
             
-            if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
-            {
-                rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
-            }
+        ShadowCast();
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+        }
 
             //ClampMove();
         
@@ -78,15 +80,30 @@ public class Movement2 : MonoBehaviour
     void DetectFloor()
     {
         RaycastHit hit;
-        if (Physics.Raycast(transform.position, Vector3.down, out hit, 15))
+        if (Physics.Raycast(transform.position, Vector3.down, out hit, .2f))
         {
-            if (hit.distance <= 1.01)
+            if (hit.distance <= .1)
                 isGrounded = true;
             else
                 isGrounded = false;
         }
         else
             isGrounded = false;
+        
+    }
+
+    void ShadowCast()
+    {
+        RaycastHit hit;
+        if (Physics.Raycast(transform.position, Vector3.down, out hit, 15))
+        {
+            if(!Shadow.activeSelf)
+                Shadow.SetActive(true);
+
+            Shadow.transform.position = hit.point +(Vector3.up * 0.01f);
+        }
+        else if(Shadow.activeSelf)
+            Shadow.SetActive(false);
         
     }
 }

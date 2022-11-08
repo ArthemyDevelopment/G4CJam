@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/02_Art/PolygonPrototype/Materials/PolygonPrototype_Texture_01 3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/PolygonPrototype/Materials/PolygonPrototype_Texture_01 3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerEcholocationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerEcholocationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/ScannerEffect.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/ScannerEffect.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/English.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/English.csv.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -92,7 +103,8 @@
       <updated>1667693915575</updated>
       <workItem from="1667693929070" duration="8843000" />
       <workItem from="1667751132320" duration="12159000" />
-      <workItem from="1667831400523" duration="8880000" />
+      <workItem from="1667831400523" duration="10247000" />
+      <workItem from="1667932052357" duration="6936000" />
     </task>
     <servers />
   </component>

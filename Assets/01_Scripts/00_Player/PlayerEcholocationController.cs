@@ -13,8 +13,14 @@ public class PlayerEcholocationController : MonoBehaviour
     [FoldoutGroup("Echo Stats"), SerializeField] private float DistanceIncreaseByLevel;
     [FoldoutGroup("Echo Stats/References")] public EcholocationController PlayerEcho;
 
+    private Movement2 PlayerController;
+    private float PlayerMovSpeed;
     private bool PlayerIsActive = true;
-    
+
+    private void Awake()
+    {
+        PlayerController = GetComponent<Movement2>();
+    }
 
     void Update()
     {
@@ -40,7 +46,11 @@ public class PlayerEcholocationController : MonoBehaviour
     IEnumerator EcholocationRoutine()
     {
         PlayerEcho.TriggerEffect(transform.position);
-        yield return ScriptsTools.GetWait(PreReturnTime);
+        PlayerMovSpeed = PlayerController.movSpeed;
+        PlayerController.movSpeed = 0;
+        yield return ScriptsTools.GetWait(PreReturnTime/2);
+        PlayerController.movSpeed = PlayerMovSpeed;
+        yield return ScriptsTools.GetWait(PreReturnTime/2);
         ReturnEcholocation();
     }
 

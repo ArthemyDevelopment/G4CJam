@@ -79,6 +79,7 @@ namespace ArthemyDevelopment.Localization
 			else
 			{
 				Debug.LogError("LocalizationData file not found: no Json file with the given name exist in the correct folder");
+				
 			}
 		}
 
@@ -111,9 +112,9 @@ namespace ArthemyDevelopment.Localization
 		{
 			LocalizedText = new Dictionary<string, string>();
 
-			BetterStreamingAssets.Initialize();
 
-			
+			#if !UNITY_WEBGL
+			BetterStreamingAssets.Initialize();
 			if(BetterStreamingAssets.FileExists(fileName))
 			{
 				//Debug.Log(BetterStreamingAssets.OpenText(fileName));
@@ -135,9 +136,25 @@ namespace ArthemyDevelopment.Localization
 			else
 			{
 				Debug.LogError("LocalizationData file not found: no .CSV file with the given name exist in the correct folder");
+				Debug.LogError(fileName);
+			}
+#elif UNITY_WEBGL
+
+			TextAsset textFile = Resources.Load<TextAsset>(fileName.Replace(".csv", ""));
+			string[] lines = textFile.text.Split(System.Environment.NewLine);
+			
+			for (int i = 0; i < lines.Length-1; i++)
+			{
+				string[] data = lines[i].Split(';');
+				Debug.Log(lines[i]);
+				Debug.Log(data);
+				LocalizedText.Add(data[0], data[1]);
 			}
 
-			
+
+#endif
+
+
 
 		}
 
