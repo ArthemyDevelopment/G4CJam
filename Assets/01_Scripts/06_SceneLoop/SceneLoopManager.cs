@@ -9,6 +9,11 @@ public class SceneLoopManager : SingletonManager<SceneLoopManager>
     public UnityEvent OnResetScene;
     public UnityEvent OnFinishScene;
 
+    private void Awake()
+    {
+        init();
+    }
+
     private void Start()
     {
         ResetScene();

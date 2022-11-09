@@ -5,59 +5,91 @@ using ArthemyDevelopment.Localization;
 using UnityEngine;
 using UnityEngine.UI;
 
+[DefaultExecutionOrder(-5)]
 public class DialogsManager : SingletonManager<DialogsManager>
 {
+    
+    public delegate void dialogTrigger();
+
+    public dialogTrigger OnDialogFinish;
+    
     private Animator DialogAnimation;
     public Image CharacterIcon;
     public LocalizationObject DialogText;
     private bool isPlaying;
-    
-    
+    private bool dialogIsActive;
+
+    private List<Dialog> currDialogs=new List<Dialog>();
+    private Coroutine DialogRutine;
+
+    private int currDialogIndex;
     private void Awake()
     {
         init();
         DialogAnimation = GetComponent<Animator>();
     }
 
-
     public void SetDialog(Dialog currDialog)
     {
         if (isPlaying) return;
         isPlaying = true;
-        CharacterIcon.sprite = currDialog.DialogCharacter;
-        DialogText.key = currDialog.DialogKey;
-        DialogText.SetLocalizedObject();
-        StartCoroutine(StartDialog(currDialog.DialogDuration));
+        currDialogs.Add(currDialog);
+        NextDialog();
+        DialogAnimation.Play("ShowDialog");
+    }
+
+    void NextDialog()
+    {
+        if (currDialogIndex < currDialogs.Count)
+        {
+            CharacterIcon.sprite = currDialogs[currDialogIndex].DialogCharacter;
+            DialogText.key = currDialogs[currDialogIndex].DialogKey;
+            DialogText.SetLocalizedObject();
+            DialogRutine=StartCoroutine(DialogTimer(currDialogs[currDialogIndex].DialogDuration));
+            currDialogIndex++;
+        }
+        else
+        {
+            isPlaying = false;
+            DialogAnimation.Play("HideDialog");
+            currDialogs.Clear();
+            currDialogIndex = 0;
+            Movement2.current.movSpeed = Movement2.current.StartMovSpeed;
+            if (OnDialogFinish != null)
+            {
+                OnDialogFinish.Invoke();
+                OnDialogFinish = null;
+            }
+        }
     }
 
     public void SetDialog(List<Dialog> currDialog)
     {
-        
+        if (isPlaying) return;
+        isPlaying = true;
+        currDialogs.AddRange(currDialog);
+        Movement2.current.movSpeed = 0;
+        NextDialog();
+        DialogAnimation.Play("ShowDialog");
     }
     
-    IEnumerator StartDialogs(List<Dialog> currDialog)
-    {
+    
 
-        DialogAnimation.Play("ShowDialog");
-        for (int i = 0; i < currDialog.Count; i++)
-        {
-            CharacterIcon.sprite = currDialog[i].DialogCharacter;
-            DialogText.key = currDialog[i].DialogKey;
-            DialogText.SetLocalizedObject();
-            yield return ScriptsTools.GetWait(currDialog[i].DialogDuration);
-        }
-        DialogAnimation.Play("HideDialog");
-        isPlaying = false;
-    }
-
-    IEnumerator StartDialog(float duration)
+    IEnumerator DialogTimer(float duration)
     {
-        DialogAnimation.Play("ShowDialog");
         yield return ScriptsTools.GetWait(duration);
-        DialogAnimation.Play("HideDialog");
-        isPlaying = false;
+        NextDialog();
     }
+
+    public void SkipDialog()
+    {
+        if(!isPlaying)return;
+        StopCoroutine(DialogRutine);
+        NextDialog();
+    }
+    
 }
+
 
 [Serializable]
 public struct Dialog
@@ -65,4 +97,5 @@ public struct Dialog
     public Sprite DialogCharacter;
     public string DialogKey;
     public float DialogDuration;
+    public AudioClip voiceAudio;
 }

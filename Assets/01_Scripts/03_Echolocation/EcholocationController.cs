@@ -22,6 +22,21 @@ public class EcholocationController : MonoBehaviour
             yield return ScriptsTools.GetWait(TimeBetweenEffects);
         }
     }
+    public void UpdateEchoRange(float newRange)
+    {
+        foreach (var echo in EcholocationEffects)
+        {
+            echo.MaxDistance += newRange;
+        }
+    }
+
+    public void ResetEchoRange(float range)
+    {
+        foreach (var echo in EcholocationEffects)
+        {
+            echo.MaxDistance = range;
+        }
+    }
     
     
     

@@ -1,104 +1,104 @@
-Dialog_Intro_1;Sam: Where am I? What is this place?
+ÔªøDialog_Intro_1;Sam: Where am I? What is this place?
 Dialog_Intro_2;"""..."""
-Dialog_Intro_3;Sam: Guess thereís nothing to do but try and get out of hereÖ
+Dialog_Intro_3;Sam: Guess there‚Äôs nothing to do but try and get out of here‚Ä¶
 Dialog_Mom_1;Mom: Oh there you are, Sammy!
 Dialog_Mom_2;Mom!? What are you doing here? What even is this place?
-Dialog_Mom_3;Mom: Oh donít you worry about that, Iím just happy to see you.
-Dialog_Mom_4;Sam: MomÖ I think this is a little bit more concerning-
-Dialog_Mom_5;Mom: Donít be silly. Itís always good to have you around since you work so hard.
-Dialog_Mom_6;Sam: Itís good to be preparedÖ
-Dialog_Mom_7;Mom: Well, even soÖ Sammy, we would love to catch up over dinner? 
-Dialog_Mom_8;Sam: IÖ Iíll think about it, okay, Mom?
-Dialog_Mom_9;Mom: Thatís fantastic! Iíll even make your favorite! Oh, take this with you. You might need it later. Keep an eye out for the others.
+Dialog_Mom_3;Mom: Oh don‚Äôt you worry about that, I‚Äôm just happy to see you.
+Dialog_Mom_4;Sam: Mom‚Ä¶ I think this is a little bit more concerning-
+Dialog_Mom_5;Mom: Don‚Äôt be silly. It‚Äôs always good to have you around since you work so hard.
+Dialog_Mom_6;Sam: It‚Äôs good to be prepared‚Ä¶
+Dialog_Mom_7;Mom: Well, even so‚Ä¶ Sammy, we would love to catch up over dinner? 
+Dialog_Mom_8;Sam: I‚Ä¶ I‚Äôll think about it, okay, Mom?
+Dialog_Mom_9;Mom: That‚Äôs fantastic! I‚Äôll even make your favorite! Oh, take this with you. You might need it later. Keep an eye out for the others.
 Dialog_Mom_10;*You got a companion bat*
-Dialog_Mom_11;Sam: UhÖ. thanks? 
+Dialog_Mom_11;Sam: Uh‚Ä¶. thanks? 
 Dialog_Mom_12;Sam *thinking*: This is so weird.
-Dialog_Dad_1;Sam: Oh. Youíre here too, Dad.
+Dialog_Dad_1;Sam: Oh. You‚Äôre here too, Dad.
 Dialog_Dad_2;Dad: Sammy! Hey there, Sport!
-Dialog_Dad_3;Sam: Aaaand you canít see the spooky forest either. Great.
-Dialog_Dad_4;Dad: How about we go outside and play some catch? You havenít given baseball a try in awhile.
-Dialog_Dad_5;Sam: Thatís because I wasnít picked for the teamÖ
-Dialog_Dad_6;Dad: Oh forget about that! You love the sport! You canít let one setback ruin something you loved so much. We can keep practicing together!
-Dialog_Dad_7;Sam: ÖYouíre not mad I didnít make it first try?
+Dialog_Dad_3;Sam: Aaaand you can‚Äôt see the spooky forest either. Great.
+Dialog_Dad_4;Dad: How about we go outside and play some catch? You haven‚Äôt given baseball a try in awhile.
+Dialog_Dad_5;Sam: That‚Äôs because I wasn‚Äôt picked for the team‚Ä¶
+Dialog_Dad_6;Dad: Oh forget about that! You love the sport! You can‚Äôt let one setback ruin something you loved so much. We can keep practicing together!
+Dialog_Dad_7;Sam: ‚Ä¶You‚Äôre not mad I didn‚Äôt make it first try?
 Dialog_Dad_8;Dad: Of course not! But you will be if you don't  give up.
-Dialog_Dad_9;Sam: HuhÖ Yeah. Iíll practice with you!
-Dialog_Dad_10;Dad: Great! Oh, donít forget this. Iíll see you later.
+Dialog_Dad_9;Sam: Huh‚Ä¶ Yeah. I‚Äôll practice with you!
+Dialog_Dad_10;Dad: Great! Oh, don‚Äôt forget this. I‚Äôll see you later.
 Dialog_Dad_11;*You got a companion bat!*
-Dialog_Dad_12;Sam: Oh. Another one. Guess Iíll keep looking around.
+Dialog_Dad_12;Sam: Oh. Another one. Guess I‚Äôll keep looking around.
 Dialog_Bandit_1;Bandit: Hey! Sam! Over here!
-Dialog_Bandit_2;Sam: Bandit? I havenít seen you since we movedÖ
-Dialog_Bandit_3;Bandit: Well, yeahÖ But that doesnít mean we ever stopped being friends, does it? We can still play games together or watch movies over video calls!
-Dialog_Bandit_4;Sam: Isnít it weird over a screen?
-Dialog_Bandit_5;Bandit: Only if you make it! But Iíd love any excuse to hang out with you! If it is awkward Iíll run all the way over there myself! 
-Dialog_Bandit_6;Sam: Yeah okayÖ That sounds fun I guessÖ I really do miss you.
-Dialog_Bandit_7;Bandit: Aww, I miss you too. Letís keep in touch! Take this with you too!
+Dialog_Bandit_2;Sam: Bandit? I haven‚Äôt seen you since we moved‚Ä¶
+Dialog_Bandit_3;Bandit: Well, yeah‚Ä¶ But that doesn‚Äôt mean we ever stopped being friends, does it? We can still play games together or watch movies over video calls!
+Dialog_Bandit_4;Sam: Isn‚Äôt it weird over a screen?
+Dialog_Bandit_5;Bandit: Only if you make it! But I‚Äôd love any excuse to hang out with you! If it is awkward I‚Äôll run all the way over there myself! 
+Dialog_Bandit_6;Sam: Yeah okay‚Ä¶ That sounds fun I guess‚Ä¶ I really do miss you.
+Dialog_Bandit_7;Bandit: Aww, I miss you too. Let‚Äôs keep in touch! Take this with you too!
 Dialog_Bandit_8;*You got a companion bat!*
-Dialog_Bandit_9;Sam: Yeah. We will. Iíll see you around
+Dialog_Bandit_9;Sam: Yeah. We will. I‚Äôll see you around
 Dialog_Nicos_1;Nicos: Hi Sam. How are ya?
-Dialog_Nicos_2;Sam: Nicos. Iím stuck in a creepy forest. How do you think?
+Dialog_Nicos_2;Sam: Nicos. I‚Äôm stuck in a creepy forest. How do you think?
 Dialog_Nicos_3;Nicos: Meh *shrugs*
-Dialog_Nicos_4;Sam: Glad to see youíre as responsive as everÖ
-Dialog_Nicos_5;Nicos: We both donít really have big reactions to things. Thatís why we get along so well when we have a friend like Bandit.
-Dialog_Nicos_6;Sam: HuhÖ I guess I thought you were annoyed by my attitudeÖ
+Dialog_Nicos_4;Sam: Glad to see you‚Äôre as responsive as ever‚Ä¶
+Dialog_Nicos_5;Nicos: We both don‚Äôt really have big reactions to things. That‚Äôs why we get along so well when we have a friend like Bandit.
+Dialog_Nicos_6;Sam: Huh‚Ä¶ I guess I thought you were annoyed by my attitude‚Ä¶
 Dialog_Nicos_7;Nicos: What made you think that? We love that about you, Sam. Your sarcasm is hilarious.
-Dialog_Nicos_8;Sam: OhÖ Thanks, man.
-Dialog_Nicos_9;Nicos: No problem. Now, you gotta tell me about that new game youíve been playing at lunch tomorrow. Promise, dude.
+Dialog_Nicos_8;Sam: Oh‚Ä¶ Thanks, man.
+Dialog_Nicos_9;Nicos: No problem. Now, you gotta tell me about that new game you‚Äôve been playing at lunch tomorrow. Promise, dude.
 Dialog_Nicos_10;Sam: I promise.
-Dialog_Nicos_11;Nicos: Great! Iíll see you then. Now take this with you too.
+Dialog_Nicos_11;Nicos: Great! I‚Äôll see you then. Now take this with you too.
 Dialog_Nicos_12;*You got a companion bat!*
-Dialog_Nicos_13;Sam: Yeah, yeah Iím going. Love ya too.
+Dialog_Nicos_13;Sam: Yeah, yeah I‚Äôm going. Love ya too.
 Dialog_Gabe_1;Gabe: Who goes there?
-Dialog_Gabe_2;Sam: Gabe. Itís me.
+Dialog_Gabe_2;Sam: Gabe. It‚Äôs me.
 Dialog_Gabe_3;Gabe: Who?
 Dialog_Gabe_4;Sam: Sam.
 Dialog_Gabe_5;Gabe: Who?
 Dialog_Gabe_6;Sam: Your student?
 Dialog_Gabe_7;Gabe: WhHoO?
 Dialog_Gabe_8;Sam: I am not doing this with you again.
-Dialog_Gabe_9;Gabe: *chuckles* Iím just messing with you. Youíve been working very hard, Sam.
-Dialog_Gabe_10;Sam: Yeah, yeah. All Aís is hard work and-
-Dialog_Gabe_11;Gabe: Not just with that. I know moving can be hard and youíve been facing a lot of trifles in your life since then.
-Dialog_Gabe_12;Sam: Itís fineÖ Iím fine.
-Dialog_Gabe_13;Gabe: You may say that, but in reality, is anyone really ìfineî?
-Dialog_Gabe_14;Sam: Well everyone elseÖ
-Dialog_Gabe_15;Gabe: Everyone struggles with something, Sam. Youíre never truly alone. You simply have to look.
-Dialog_Gabe_16;Sam: IsÖ that why Iíve seen other people with my echolocation?
+Dialog_Gabe_9;Gabe: *chuckles* I‚Äôm just messing with you. You‚Äôve been working very hard, Sam.
+Dialog_Gabe_10;Sam: Yeah, yeah. All A‚Äôs is hard work and-
+Dialog_Gabe_11;Gabe: Not just with that. I know moving can be hard and you‚Äôve been facing a lot of trifles in your life since then.
+Dialog_Gabe_12;Sam: It‚Äôs fine‚Ä¶ I‚Äôm fine.
+Dialog_Gabe_13;Gabe: You may say that, but in reality, is anyone really ‚Äúfine‚Äù?
+Dialog_Gabe_14;Sam: Well everyone else‚Ä¶
+Dialog_Gabe_15;Gabe: Everyone struggles with something, Sam. You‚Äôre never truly alone. You simply have to look.
+Dialog_Gabe_16;Sam: Is‚Ä¶ that why I‚Äôve seen other people with my echolocation?
 Dialog_Gabe_17;Gabe: Perhaps. Maybe reaching out encourages others to do the same.
-Dialog_Gabe_18;Sam: IÖ guess I never thought about it like that. SoÖ can I go home if I go through this area here?
+Dialog_Gabe_18;Sam: I‚Ä¶ guess I never thought about it like that. So‚Ä¶ can I go home if I go through this area here?
 Dialog_Gabe_19;Gabe: Indeed. But facing your struggles head on may be difficult alone. Are you sure you feel prepared enough?
-Dialog_Gabe_20;Sam: Iím not sure yetÖ
+Dialog_Gabe_20;Sam: I‚Äôm not sure yet‚Ä¶
 Dialog_Gabe_21;Gabe: Alright then. Either way, I wish you luck Sam, and I hope to keep seeing you strive both inside and outside my classroom. Take this.
 Dialog_Gabe_22;*You got a companion bat!
 Dialog_Gabe_23;Sam: Thanks, Mr. Gabe
 Dialog_Gabe_24;Gabe: Who?
 Dialog_Gabe_25;Sam: NO.
-Dialog_Gabe_26;Gabe: *chuckles* Youíre so easy to tease. Carry on. But donít forget that you can always start over if needed. These things can take as long as you need, and this is not the end.
+Dialog_Gabe_26;Gabe: *chuckles* You‚Äôre so easy to tease. Carry on. But don‚Äôt forget that you can always start over if needed. These things can take as long as you need, and this is not the end.
 Dialog_Gabe_27;Sam: Sure. Thank you for everything. All of you.
-Dialog_Monster_1;Monster: So youíve finally made it to me. Iím surprised considering you canít get out of your own head.
-Dialog_Monster_2;Monster: I doubt thatíd get you very far. You canít even leave your room half the time.
-Dialog_Monster_3;Monster: And what about dear old dad? He taught you everything about sports and yet you canít make the team? How useless!
-Dialog_Monster_4;Monster: Hmm. Moving has likely left you stranded and alone. Poor Bandit. Youíll never see them again.
-Dialog_Monster_5;Monster: Nicos doesnít really like you. Youíre mean and sarcastic. Who would want a friend like that?
-Dialog_Monster_6;Monster: Mr. Gabe only gets along with you so much because you do so well in his class. Youíd be nothing if you couldnít succeed.
+Dialog_Monster_1;Monster: So you‚Äôve finally made it to me. I‚Äôm surprised considering you can‚Äôt get out of your own head.
+Dialog_Monster_2;Monster: I doubt that‚Äôd get you very far. You can‚Äôt even leave your room half the time.
+Dialog_Monster_3;Monster: And what about dear old dad? He taught you everything about sports and yet you can‚Äôt make the team? How useless!
+Dialog_Monster_4;Monster: Hmm. Moving has likely left you stranded and alone. Poor Bandit. You‚Äôll never see them again.
+Dialog_Monster_5;Monster: Nicos doesn‚Äôt really like you. You‚Äôre mean and sarcastic. Who would want a friend like that?
+Dialog_Monster_6;Monster: Mr. Gabe only gets along with you so much because you do so well in his class. You‚Äôd be nothing if you couldn‚Äôt succeed.
 Dialog_Monster_7;Monster: Um-
 Dialog_Monster_8;Monster: You really think they care? That you matter?
-Dialog_Monster_9;Monster: I AM right. Thatís what Iíve been telling you all along.
-Dialog_Sam_Win_1;Sam: Well, clearly thatís what Iím trying to do weirdÖ nightmareÖ blob thingy.
-Dialog_Sam_Win_2;Sam: Itís a safe spaceÖ Besides. My mom will always be waiting for me when Iím ready to come out.
+Dialog_Monster_9;Monster: I AM right. That‚Äôs what I‚Äôve been telling you all along.
+Dialog_Sam_Win_1;Sam: Well, clearly that‚Äôs what I‚Äôm trying to do weird‚Ä¶ nightmare‚Ä¶ blob thingy.
+Dialog_Sam_Win_2;Sam: It‚Äôs a safe space‚Ä¶ Besides. My mom will always be waiting for me when I‚Äôm ready to come out.
 Dialog_Sam_Win_3;Sam: Dad spends time playing with me because he loves me. Not so he can succeed through me.
-Dialog_Sam_Win_4;Sam:  I love baseball and I love playing with my dad. Iím not gonna let that ruin it for me.
-Dialog_Sam_Win_5;Sam: The internet exists. But even so, Bandit is still with me and the fun times we had will never fade. Even if thereís distance between us.
-Dialog_Sam_Win_6;Sam: If Nicos didnít accept me for who I am then he wasnít a friend to begin with. But he does. He loves being my friend and I love being his.
-Dialog_Sam_Win_7;Sam: Succeeding doesnít equate to my worth as a person. Mr. Gabe knows that. Thatís why heís supported me for so long, even now when Iím struggling.
-Dialog_Sam_Win_8;Sam: ActuallyÖ thatís it.. Thatís what my mindís been showing me this whole time. Itís not just Mr. GabeÖ 
-Dialog_Sam_Win_9;Sam: Everyone here has been trying to support me. I justÖ wasnít ready to see it. Wasnít ready to ask for help.. But now I am.
-Dialog_Sam_Win_10;Sam: Of course I do. And I wonít let you consume me anymore. Iím going home.
-Dialog_Sam_Lose_1;Sam: Well, clearly thatís what Iím trying to do weirdÖ nightmareÖ blob thingy.
-Dialog_Sam_Lose_2;Sam: You donít know what youíre talking aboutÖ
+Dialog_Sam_Win_4;Sam:  I love baseball and I love playing with my dad. I‚Äôm not gonna let that ruin it for me.
+Dialog_Sam_Win_5;Sam: The internet exists. But even so, Bandit is still with me and the fun times we had will never fade. Even if there‚Äôs distance between us.
+Dialog_Sam_Win_6;Sam: If Nicos didn‚Äôt accept me for who I am then he wasn‚Äôt a friend to begin with. But he does. He loves being my friend and I love being his.
+Dialog_Sam_Win_7;Sam: Succeeding doesn‚Äôt equate to my worth as a person. Mr. Gabe knows that. That‚Äôs why he‚Äôs supported me for so long, even now when I‚Äôm struggling.
+Dialog_Sam_Win_8;Sam: Actually‚Ä¶ that‚Äôs it.. That‚Äôs what my mind‚Äôs been showing me this whole time. It‚Äôs not just Mr. Gabe‚Ä¶ 
+Dialog_Sam_Win_9;Sam: Everyone here has been trying to support me. I just‚Ä¶ wasn‚Äôt ready to see it. Wasn‚Äôt ready to ask for help.. But now I am.
+Dialog_Sam_Win_10;Sam: Of course I do. And I won‚Äôt let you consume me anymore. I‚Äôm going home.
+Dialog_Sam_Lose_1;Sam: Well, clearly that‚Äôs what I‚Äôm trying to do weird‚Ä¶ nightmare‚Ä¶ blob thingy.
+Dialog_Sam_Lose_2;Sam: You don‚Äôt know what you‚Äôre talking about‚Ä¶
 Dialog_Sam_Lose_3;Sam: He did seem pretty upset.
-Dialog_Sam_Lose_4;Sam: BanditÖ
-Dialog_Sam_Lose_5;Sam: Itís just how I amÖ butÖ
-Dialog_Sam_Lose_6;Sam: Ö Maybe youíreÖ rightÖ
+Dialog_Sam_Lose_4;Sam: Bandit‚Ä¶
+Dialog_Sam_Lose_5;Sam: It‚Äôs just how I am‚Ä¶ but‚Ä¶
+Dialog_Sam_Lose_6;Sam: ‚Ä¶ Maybe you‚Äôre‚Ä¶ right‚Ä¶
 Dialog_Sam_Lose_7;Sam: No.. NO!
 Dialog_Sam_Lose_8;Sam: Where am I? What is this place?
 Sialog_KeepTrying;Keep Trying

@@ -5,18 +5,22 @@ using UnityEngine;
 using Quaternion = UnityEngine.Quaternion;
 using Vector3 = UnityEngine.Vector3;
 
-public class Movement2 : MonoBehaviour
+public class Movement2 : SingletonManager<Movement2>
 {
     private Transform camera;
 
     private Vector3 movDirection;
+    public Transform StartPosition;
 
-    public float movSpeed;
+    public float StartMovSpeed;
+    [HideInInspector]public float movSpeed;
     public float jumpForce;
 
     public GameObject Shadow;
     public Animator PlayerAnim;
+    public Animator PlayerTransAnim;
     public SpriteRenderer PlayerSprite;
+    public SpriteRenderer PlayerTransSprite;
 
     [SerializeField] bool isGrounded;
     private Rigidbody rb;
@@ -27,12 +31,15 @@ public class Movement2 : MonoBehaviour
     private Vector3 tempMovDirection;
     // Start is called before the first frame update
 
-    
+    private void Awake()
+    {
+        init();
+    }
 
     void Start()
     {
         Application.targetFrameRate = 60;
-        
+        movSpeed = StartMovSpeed;
     }
 
     // Update is called once per frame
@@ -53,30 +60,48 @@ public class Movement2 : MonoBehaviour
             
         movDirection = new Vector3(tempMovDirection.x,0, tempMovDirection.z);
 
+        SetAnimations();
+        
+    }
+
+    void SetAnimations()
+    {
+        if (movSpeed == 0) return;
+        
         if (movDirection.x > 0)
+        {
             PlayerSprite.flipX = false;
-        else if(movDirection.x<0)
+            PlayerTransSprite.flipX = false;
+            
+        }
+        else if (movDirection.x < 0)
+        {
             PlayerSprite.flipX = true;
+            PlayerTransSprite.flipX = true;
+            
+        }
         
         if (movDirection.magnitude !=0)
         {
             PlayerAnim.SetBool("IsMoving", true);
+            PlayerTransAnim.SetBool("IsMoving", true);
         }
         else if (movDirection.magnitude == 0)
         {
             PlayerAnim.SetBool("IsMoving", false);
-            
+            PlayerTransAnim.SetBool("IsMoving", false);
         }
         
         if (movDirection.z > 0)
         {
             PlayerAnim.SetBool("IsFront", false);
+            PlayerTransAnim.SetBool("IsFront", false);
         }
         else if (movDirection.z <= 0)
         {
             PlayerAnim.SetBool("IsFront", true);
+            PlayerTransAnim.SetBool("IsFront", true);
         }
-        
     }
 
     public void FixedUpdate()
@@ -105,6 +130,11 @@ public class Movement2 : MonoBehaviour
 
 
         
+    }
+
+    public void ResetPosition()
+    {
+        transform.position = StartPosition.position;
     }
     
     void ClampMove()

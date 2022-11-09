@@ -21,8 +21,11 @@ public class PlayerInteract : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q)||Input.GetKeyDown(KeyCode.O))
-            OnPlayerInteract.Invoke();
+        if (Input.GetKeyDown(KeyCode.Q) || Input.GetKeyDown(KeyCode.O))
+        {
+            if(OnPlayerInteract!=null)
+                OnPlayerInteract.Invoke();
+        }
         
     }
 
@@ -32,6 +35,11 @@ public class PlayerInteract : MonoBehaviour
         {
             OnPlayerInteract += other.GetComponent<PickUpElementController>().PickUpElement;
         }
+
+        if (other.CompareTag("Boss"))
+        {
+            OnPlayerInteract += other.GetComponent<BossController>().InteractBoss;
+        }
     }
     
     private void OnTriggerExit(Collider other)
@@ -39,6 +47,10 @@ public class PlayerInteract : MonoBehaviour
         if (other.CompareTag("PickUpElement"))
         {
             OnPlayerInteract -= other.GetComponent<PickUpElementController>().PickUpElement;
+        }
+        if (other.CompareTag("Boss"))
+        {
+            OnPlayerInteract -= other.GetComponent<BossController>().InteractBoss;
         }
     }
 }

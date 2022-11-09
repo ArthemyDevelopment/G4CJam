@@ -9,6 +9,7 @@ public class PickUpElementsManager : SingletonManager<PickUpElementsManager>
 {
     public List<PickUpElementController> PickUpElementsInScene;
     public UnityEvent OnPickUpElement;
+    public int PickedAmount=0;
 
     private void Awake()
     {
@@ -22,17 +23,36 @@ public class PickUpElementsManager : SingletonManager<PickUpElementsManager>
         {
             element.ResetElement();
         }
+
+        PickedAmount = 0;
     }
 
 
     public void PickUpElement() 
     {
         OnPickUpElement.Invoke();
+        PickedAmount++;
     }
 
-    public List<PickUpElementController> GetClosestElement(Transform PlayerPos, float MaxDistance)
+    public void AddRangeDistance(float newRange)
     {
-        List<PickUpElementController> tempControllers = new List<PickUpElementController>();
+        foreach (var element in PickUpElementsInScene)
+        {
+            element.UpdateEchoRange(newRange);
+        }
+    }
+
+    public void ResetRangeDistance(float range)
+    {
+        foreach (var element in PickUpElementsInScene)
+        {
+            element.ResetEchoRange(range);
+        }
+    }
+
+    public List<IEchoElement> GetClosestElement(Transform PlayerPos, float MaxDistance)
+    {
+        List<IEchoElement> tempControllers = new List<IEchoElement>();
         float currentDist = MaxDistance;
         for (int i = 0; i < PickUpElementsInScene.Count; i++)
         {

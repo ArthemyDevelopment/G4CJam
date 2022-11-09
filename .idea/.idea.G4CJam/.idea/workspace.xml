@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/audiopluginresonanceaudio.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/audiopluginresonanceaudio.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/libaudiopluginresonanceaudio.so.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/libaudiopluginresonanceaudio.so.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerEcholocationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerEcholocationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerInteract.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerInteract.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementsManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationEffect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/06_SceneLoop/SceneLoopManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/06_SceneLoop/SceneLoopManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/EnumHolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/EnumHolder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Art/01_Sprites/Sam_Sprite-assets/Sam_Sprite.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/01_Sprites/Sam_Sprite-assets/Sam_Sprite.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Art/01_Sprites/Sam_Sprite2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/01_Sprites/Sam_Sprite2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/BlackAndWhiteView.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/BlackAndWhiteView.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/ScannerEffect.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/ScannerEffect.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/English.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/English.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +37,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerEcholocationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerInteract.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/BossEcholocation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/CameraDivider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/OnRenderImageAdapter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/04_Sounds/WhisperController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/ElementDialog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/IntroDialog.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/06_SceneLoop/SceneLoopManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/07_Boss/BossController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/99_Tools/ChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Runtime/PostProcessEffectRenderer.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -89,6 +109,7 @@
       <workItem from="1667751132320" duration="12159000" />
       <workItem from="1667831400523" duration="10247000" />
       <workItem from="1667932052357" duration="11043000" />
+      <workItem from="1668006660356" duration="11425000" />
     </task>
     <servers />
   </component>

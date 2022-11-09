@@ -8,8 +8,8 @@ public class EcholocationEffect : MonoBehaviour
 	public Material EffectMaterial;
 	public float ScanDistance;
 	public float StartFadingPoint;
-	public Color MidColor;
-	public Color TrailColor;
+	private Color Mid= Color.white;
+	private Color Trail=Color.white;
 	private float alpha;
 	public float MaxDistance;
 	public float Speed;
@@ -25,8 +25,8 @@ public class EcholocationEffect : MonoBehaviour
 	{
 
 		alpha = ScriptsTools.MapValues(ScanDistance, StartFadingPoint, MaxDistance, 1, 0);
-		MidColor = new Color(alpha, alpha, alpha,0);
-		TrailColor = new Color(alpha, alpha, alpha,0);
+		Mid = new Color(alpha, alpha, alpha,0);
+		Trail = new Color(alpha, alpha, alpha,0);
 		
 		if (ScanDistance > MaxDistance)
 		{
@@ -65,8 +65,8 @@ public class EcholocationEffect : MonoBehaviour
 	{
 		EffectMaterial.SetVector("_WorldSpaceScannerPos", ScannerOrigin);
 		EffectMaterial.SetFloat("_ScanDistance", ScanDistance);
-		EffectMaterial.SetVector("_MidColor", MidColor);
-		EffectMaterial.SetVector("_TrailColor", TrailColor);
+		EffectMaterial.SetVector("_MidColor", Mid);
+		EffectMaterial.SetVector("_TrailColor", Trail);
 		RaycastCornerBlit(src, dst, EffectMaterial);
 	}
 

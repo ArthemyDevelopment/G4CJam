@@ -56,9 +56,9 @@ public class PlayerEcholocationController : MonoBehaviour
 
     void ReturnEcholocation()
     {
-        List<PickUpElementController> closestElement = PickUpElementsManager.current.GetClosestElement(transform, MaxEchoDistance);
+        List<IEchoElement> closestElement = PickUpElementsManager.current.GetClosestElement(transform, MaxEchoDistance);
 
-        //Add bad creature Echolocation to the list
+        closestElement.Add(BossEcholocation.current);
 
         for (int i = 0; i < closestElement.Count; i++)
         {
@@ -70,10 +70,12 @@ public class PlayerEcholocationController : MonoBehaviour
     public void AddEcholocationLevel()
     {
         MaxEchoDistance += DistanceIncreaseByLevel;
+        PickUpElementsManager.current.AddRangeDistance(DistanceIncreaseByLevel);
     }
 
     private void ResetEcholocation()
     {
         MaxEchoDistance = StartingMaxEchoDistance;
+        PickUpElementsManager.current.ResetRangeDistance(StartingMaxEchoDistance);
     }
 }

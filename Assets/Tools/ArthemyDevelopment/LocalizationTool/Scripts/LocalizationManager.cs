@@ -146,8 +146,6 @@ namespace ArthemyDevelopment.Localization
 			for (int i = 0; i < lines.Length-1; i++)
 			{
 				string[] data = lines[i].Split(';');
-				Debug.Log(lines[i]);
-				Debug.Log(data);
 				LocalizedText.Add(data[0], data[1]);
 			}
 
