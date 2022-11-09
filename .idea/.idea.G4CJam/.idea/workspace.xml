@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/audiopluginresonanceaudio.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/audiopluginresonanceaudio.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/libaudiopluginresonanceaudio.so.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ResonanceAudio/Plugins/x86_64/libaudiopluginresonanceaudio.so.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/English.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/English.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +88,7 @@
       <workItem from="1667693929070" duration="8843000" />
       <workItem from="1667751132320" duration="12159000" />
       <workItem from="1667831400523" duration="10247000" />
-      <workItem from="1667932052357" duration="9842000" />
+      <workItem from="1667932052357" duration="11043000" />
     </task>
     <servers />
   </component>
