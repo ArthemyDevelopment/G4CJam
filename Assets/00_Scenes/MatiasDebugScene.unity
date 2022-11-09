@@ -967,6 +967,8 @@ MonoBehaviour:
   movSpeed: 3
   jumpForce: 10
   Shadow: {fileID: 72980043}
+  PlayerAnim: {fileID: 711862741}
+  PlayerSprite: {fileID: 711862738}
   isGrounded: 0
 --- !u!136 &393577026
 CapsuleCollider:
@@ -1535,6 +1537,7 @@ GameObject:
   - component: {fileID: 711862739}
   - component: {fileID: 711862738}
   - component: {fileID: 711862740}
+  - component: {fileID: 711862741}
   m_Layer: 0
   m_Name: PlayerSprite
   m_TagString: Untagged
@@ -1602,7 +1605,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 711862737}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 0, y: 0.855, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1627,6 +1630,26 @@ MonoBehaviour:
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []
+--- !u!95 &711862741
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 711862737}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7c9d5d9cbb47c704e82b40060dbae92f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &847170361
 GameObject:
   m_ObjectHideFlags: 0
@@ -2988,9 +3011,9 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 1348983285}
   dialog:
-    DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 0}
     DialogKey: Dialog_1
-    DialogDuration: 10
+    DialogDuration: 5
 --- !u!4 &1348983287
 Transform:
   m_ObjectHideFlags: 0
@@ -3241,9 +3264,9 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 1527689740}
   dialog:
-    DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 0}
     DialogKey: Dialog_1
-    DialogDuration: 10
+    DialogDuration: 5
 --- !u!4 &1527689742
 Transform:
   m_ObjectHideFlags: 0
@@ -3641,9 +3664,9 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 1742199317}
   dialog:
-    DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 0}
     DialogKey: Dialog_1
-    DialogDuration: 10
+    DialogDuration: 5
 --- !u!4 &1742199319
 Transform:
   m_ObjectHideFlags: 0
@@ -3726,9 +3749,9 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 1744406803}
   dialog:
-    DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 0}
     DialogKey: Dialog_1
-    DialogDuration: 10
+    DialogDuration: 5
 --- !u!4 &1744406805
 Transform:
   m_ObjectHideFlags: 0
@@ -4938,9 +4961,9 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 2064722800}
   dialog:
-    DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 0}
     DialogKey: Dialog_1
-    DialogDuration: 10
+    DialogDuration: 5
 --- !u!4 &2064722802
 Transform:
   m_ObjectHideFlags: 0

@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 874c63c1c3d6db74c9d7b5379b9187c6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sam_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 361
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd871d2c8a28ac46bf8d3150f2978d7
+      internalID: -438919520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3168
+        width: 361
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10502628a90be46bf09e523f10604d
+      internalID: -2018745695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3168.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a092f3c8d1d974fb8cff17f6697f34
+      internalID: 722629578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 3168.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94303e23059a103468c5e231b4593400
+      internalID: -2129221584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3168.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7bdf20d54f94d4c852e924086538a0
+      internalID: -1731528231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2716.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6368e5edc130419a7bb57d7036e9f
+      internalID: -232013921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2716.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff07b18e15b28fe4b93445decf86be86
+      internalID: 1455302353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2716.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffaefee45027f245ac920fdc3bb2a94
+      internalID: -1481929191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2716.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc8952a4df54d4481e418f9ee53768
+      internalID: 1645571560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2716.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43750bd638ce31c4d9293898c8b69165
+      internalID: -472580574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2264.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f16cb8425a7624ea0c6fcfab28fa39
+      internalID: 15484779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2264.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373b89a11e7af24c8355c3cfa01cad1
+      internalID: 2145954370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2264.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1431196ef97b747853bb32fe244cf4
+      internalID: -1042348656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 2264.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1966e2ab141891e4d823fa1d53ebb040
+      internalID: 977984088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2264.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7a0b973982064eae050fc1735899c
+      internalID: -35114879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1812.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9fff0bab3c9044935941e6b60a7ca
+      internalID: -721055533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1812.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416a0c025e8cdb48abcc3e98f14c885
+      internalID: 1471749688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1812.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c835c4352b9f89545a058f4e5b9da3e5
+      internalID: 41575906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1812.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30af39f17103db41abcd167ba5230c3
+      internalID: 1424150377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1812.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ab7078e7e4ae4ba0ed64fb9a74f20
+      internalID: 1049533457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592aff8be8c0d894ba711419f55545ba
+      internalID: 742755207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1360.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af3b73f98840440964465b36356bc0
+      internalID: -85028801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1360.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826dff1027a912343853cf90d2f8954f
+      internalID: -1945094320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1360.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da7bafc7641a0429b2cb748a0c8f8f
+      internalID: 977334275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1360.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e942a46c53ae2e42b51e083d88eeafc
+      internalID: -198353266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80bc94650939ad499b023f35d245619
+      internalID: -167865090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 908.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed509daf9a228fa48ae7db7f5818b1a6
+      internalID: -2063379062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 908.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e562e7fb3202419ed82af1ebb9938
+      internalID: 19400610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 908.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3672be67ff45346bd1e9207764f0b0
+      internalID: 1975635914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 908.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d1fd3e967b3247a9b4d0f7f536eab
+      internalID: -1875755784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5daec91f7598e48a2fa284e2c9ca90
+      internalID: 1555873765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 456.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a791e1ec43eca96488c3735c4e36f09d
+      internalID: -615261206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 456.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47474a715e9d8c448e163b4150043fa
+      internalID: 1276578055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 456.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e406409db25062b44bb79e8d05281851
+      internalID: -760022407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 456.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9bc2c68825264e84f72a53487a177
+      internalID: -1938249785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c86e7a1f4f506a459a34aef419e52d8
+      internalID: 1172365843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1734c84f2b71c24788e7e98322d1515
+      internalID: -1341302100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4329447f686399469debd29c756a628
+      internalID: -791110325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 4.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef73ffe0fb17645838f8f6f502a615
+      internalID: -36150279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 4.375
+        width: 361
+        height: 452.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c99b3b0af305f641a6e5654405ea57a
+      internalID: -116465275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sam_Sprite_20: 742755207
+      Sam_Sprite_23: 977334275
+      Sam_Sprite_8: 1645571560
+      Sam_Sprite_22: -1945094320
+      Sam_Sprite_36: -1341302100
+      Sam_Sprite_35: 1172365843
+      Sam_Sprite_3: -2129221584
+      Sam_Sprite_19: 1049533457
+      Sam_Sprite_12: -1042348656
+      Sam_Sprite_5: -232013921
+      Sam_Sprite_9: -472580574
+      Sam_Sprite_21: -85028801
+      Sam_Sprite_10: 15484779
+      Sam_Sprite_33: -760022407
+      Sam_Sprite_37: -791110325
+      Sam_Sprite_11: 2145954370
+      Sam_Sprite_32: 1276578055
+      Sam_Sprite_17: 41575906
+      Sam_Sprite_15: -721055533
+      Sam_Sprite_27: 19400610
+      Sam_Sprite_34: -1938249785
+      Sam_Sprite_16: 1471749688
+      Sam_Sprite_25: -167865090
+      Sam_Sprite_28: 1975635914
+      Sam_Sprite_4: -1731528231
+      Sam_Sprite_38: -36150279
+      Sam_Sprite_39: -116465275
+      Sam_Sprite_31: -615261206
+      Sam_Sprite_14: -35114879
+      Sam_Sprite_0: -438919520
+      Sam_Sprite_29: -1875755784
+      Sam_Sprite_30: 1555873765
+      Sam_Sprite_18: 1424150377
+      Sam_Sprite_26: -2063379062
+      Sam_Sprite_7: -1481929191
+      Sam_Sprite_13: 977984088
+      Sam_Sprite_6: 1455302353
+      Sam_Sprite_1: -2018745695
+      Sam_Sprite_24: -198353266
+      Sam_Sprite_2: 722629578
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
