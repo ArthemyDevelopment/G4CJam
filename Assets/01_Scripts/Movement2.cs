@@ -5,6 +5,7 @@ using UnityEngine;
 using Quaternion = UnityEngine.Quaternion;
 using Vector3 = UnityEngine.Vector3;
 
+[DefaultExecutionOrder(-5)]
 public class Movement2 : SingletonManager<Movement2>
 {
     private Transform camera;
@@ -66,7 +67,11 @@ public class Movement2 : SingletonManager<Movement2>
 
     void SetAnimations()
     {
-        if (movSpeed == 0) return;
+        if (movSpeed == 0)
+        {
+            PlayerAnim.SetBool("IsMoving", false);
+            return;
+        }
         
         if (movDirection.x > 0)
         {
@@ -152,12 +157,24 @@ public class Movement2 : SingletonManager<Movement2>
         if (Physics.Raycast(transform.position, Vector3.down, out hit, .2f))
         {
             if (hit.distance <= .1)
+            {
                 isGrounded = true;
+                PlayerAnim.SetBool("IsJumping", false);
+                PlayerTransAnim.SetBool("IsJumping", false);
+            }
             else
+            {
                 isGrounded = false;
+                PlayerAnim.SetBool("IsJumping", true);
+                PlayerTransAnim.SetBool("IsJumping", true);
+            }
         }
         else
+        {
             isGrounded = false;
+            PlayerAnim.SetBool("IsJumping", true);
+            PlayerTransAnim.SetBool("IsJumping", true);
+        }
         
     }
 

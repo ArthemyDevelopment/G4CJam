@@ -16,9 +16,8 @@ public class DialogsManager : SingletonManager<DialogsManager>
     private Animator DialogAnimation;
     public Image CharacterIcon;
     public LocalizationObject DialogText;
-    private bool isPlaying;
-    private bool dialogIsActive;
-
+    public bool isPlaying;
+    public WhisperController whispers;
     private List<Dialog> currDialogs=new List<Dialog>();
     private Coroutine DialogRutine;
 
@@ -32,12 +31,26 @@ public class DialogsManager : SingletonManager<DialogsManager>
     public void SetDialog(Dialog currDialog)
     {
         if (isPlaying) return;
-        isPlaying = true;
         currDialogs.Add(currDialog);
+        GenericSet();
+    }
+
+    public void SetDialog(List<Dialog> currDialog)
+    {
+        if (isPlaying) return;
+        currDialogs.AddRange(currDialog);
+        GenericSet();
+    }
+
+    void GenericSet()
+    {
+        isPlaying = true;
+        whispers.StopWhisper();
+        Movement2.current.movSpeed = 0;
         NextDialog();
         DialogAnimation.Play("ShowDialog");
     }
-
+    
     void NextDialog()
     {
         if (currDialogIndex < currDialogs.Count)
@@ -62,19 +75,6 @@ public class DialogsManager : SingletonManager<DialogsManager>
             }
         }
     }
-
-    public void SetDialog(List<Dialog> currDialog)
-    {
-        if (isPlaying) return;
-        isPlaying = true;
-        currDialogs.AddRange(currDialog);
-        Movement2.current.movSpeed = 0;
-        NextDialog();
-        DialogAnimation.Play("ShowDialog");
-    }
-    
-    
-
     IEnumerator DialogTimer(float duration)
     {
         yield return ScriptsTools.GetWait(duration);

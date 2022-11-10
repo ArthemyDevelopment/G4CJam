@@ -9,6 +9,7 @@ public class WhisperSubController : MonoBehaviour
     private Animator WhispersAnim;
     public LocalizationObject whispersText;
 
+    private Coroutine currHide;
     private void Awake()
     {
         WhispersAnim = GetComponent<Animator>();
@@ -19,7 +20,7 @@ public class WhisperSubController : MonoBehaviour
         whispersText.key = key;
         whispersText.SetLocalizedObject();
         WhispersAnim.Play("ShowWhispers");
-        StartCoroutine(HideSubs(duration));
+        currHide=StartCoroutine(HideSubs(duration));
 
 
     }
@@ -27,6 +28,13 @@ public class WhisperSubController : MonoBehaviour
     IEnumerator HideSubs(float duration)
     {
         yield return ScriptsTools.GetWait(duration);
+        WhispersAnim.Play("HideWhispers");
+    }
+
+    public void StopWhisper()
+    {
+        if (currHide == null) return;
+        StopCoroutine(currHide);
         WhispersAnim.Play("HideWhispers");
     }
 }
