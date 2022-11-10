@@ -6,7 +6,7 @@ AudioMixerController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ResonanceAudioMixer
+  m_Name: Music
   m_OutputGroup: {fileID: 0}
   m_MasterGroup: {fileID: 24300002}
   m_Snapshots:
@@ -16,11 +16,11 @@ AudioMixerController:
   m_EnableSuspend: 1
   m_UpdateMode: 0
   m_ExposedParameters:
-  - guid: 76dd6ada92654467da2044ca5eb97484
+  - guid: 589b8699b47c2824284860516f5421a4
     name: Volume
   m_AudioMixerGroupViews:
   - guids:
-    - c799ec8bc7f394c3faaa686b0c2f3f40
+    - 5e0746b89b1eb9140b48c2b84f4959f6
     name: View
   m_CurrentViewIndex: 0
   m_TargetSnapshot: {fileID: 24500006}
@@ -32,13 +32,12 @@ AudioMixerGroupController:
   m_PrefabAsset: {fileID: 0}
   m_Name: Master
   m_AudioMixer: {fileID: 24100000}
-  m_GroupID: c799ec8bc7f394c3faaa686b0c2f3f40
+  m_GroupID: 5e0746b89b1eb9140b48c2b84f4959f6
   m_Children: []
-  m_Volume: 76dd6ada92654467da2044ca5eb97484
-  m_Pitch: f6e7ed6a2ec9849df837cb64b6ec8240
+  m_Volume: 589b8699b47c2824284860516f5421a4
+  m_Pitch: f9e8cc52422fc1f4697fc21bbc52dc96
   m_Send: 00000000000000000000000000000000
   m_Effects:
-  - {fileID: 244255876635463380}
   - {fileID: 24400004}
   m_UserColorIndex: 0
   m_Mute: 0
@@ -51,9 +50,9 @@ AudioMixerEffectController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 
-  m_EffectID: 9412d7f6841db4014b7ef1e25ba35dac
+  m_EffectID: bfb61263f4f0c794da3e1ce97a4932a6
   m_EffectName: Attenuation
-  m_MixLevel: 52aae3b4c529f4ce2986e1cd349a59a7
+  m_MixLevel: 282b19a637bbda541a886a3524c7da99
   m_Parameters: []
   m_SendTarget: {fileID: 0}
   m_EnableWetMix: 0
@@ -66,20 +65,7 @@ AudioMixerSnapshotController:
   m_PrefabAsset: {fileID: 0}
   m_Name: Snapshot
   m_AudioMixer: {fileID: 24100000}
-  m_SnapshotID: 7d121094476bd4ea2a9cc9ac388299f4
-  m_FloatValues: {}
+  m_SnapshotID: f38c02900a2c35842ac5c5447001f64e
+  m_FloatValues:
+    589b8699b47c2824284860516f5421a4: -12.498478
   m_TransitionOverrides: {}
---- !u!244 &244255876635463380
-AudioMixerEffectController:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_EffectID: 4e654e689a5c045319baafd4927386c5
-  m_EffectName: Resonance Audio Renderer
-  m_MixLevel: 5247e674388494bb8ad1d3cd2414ac41
-  m_Parameters: []
-  m_SendTarget: {fileID: 0}
-  m_EnableWetMix: 0
-  m_Bypass: 0

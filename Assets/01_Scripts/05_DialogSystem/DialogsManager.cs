@@ -97,5 +97,5 @@ public struct Dialog
     public Sprite DialogCharacter;
     public string DialogKey;
     public float DialogDuration;
-    public AudioClip voiceAudio;
+    //public AudioClip voiceAudio;
 }

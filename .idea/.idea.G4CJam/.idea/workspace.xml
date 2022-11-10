@@ -3,12 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/MatiasDebugScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/04_Sounds/WhisperController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/04_Sounds/WhisperController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/WhisperSubController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/WhisperSubController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/Movement2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/05_Animations/02_Player/PlayerAnim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/05_Animations/02_Player/PlayerAnim.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/IntroDialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/IntroDialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/02_Art/01_Scripts/PauseMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/03_Sounds/00_Whispers/shadows-84669.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/03_Sounds/00_Whispers/shadows-84669.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ResonanceAudio/Resources/ResonanceAudioMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ResonanceAudio/Resources/ResonanceAudioMixer.mixer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/English.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/English.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +40,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/06_SceneLoop/SceneLoopManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/07_Boss/BossController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/99_Tools/ChangeScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ResonanceAudio/Resources/MusicBats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Runtime/PostProcessEffectRenderer.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -96,7 +103,7 @@
       <workItem from="1667751132320" duration="12159000" />
       <workItem from="1667831400523" duration="10247000" />
       <workItem from="1667932052357" duration="11043000" />
-      <workItem from="1668006660356" duration="14277000" />
+      <workItem from="1668006660356" duration="18861000" />
     </task>
     <servers />
   </component>

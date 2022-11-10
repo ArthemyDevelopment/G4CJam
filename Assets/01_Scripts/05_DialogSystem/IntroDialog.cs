@@ -1,8 +1,9 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class IntroDialog : MonoBehaviour
 {
-   public Dialog introDialog;
+   public List<Dialog> introDialog;
 
    private void OnEnable()
    {
