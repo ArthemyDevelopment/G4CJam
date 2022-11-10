@@ -1,24 +1,33 @@
 ﻿using UnityEngine;
 using Sirenix.OdinInspector;
+using Unity.VisualScripting;
 
 
 public class EcholocationEffect : MonoBehaviour
 {
 	private Vector3 ScannerOrigin;
 	public Material EffectMaterial;
-	public float ScanDistance;
-	public float StartFadingPoint;
 	private Color Mid= Color.white;
 	private Color Trail=Color.white;
 	private float alpha;
-	public float MaxDistance;
-	public float Speed;
+	public float ScanDistance;
+	public bool OverrideDefaultValues;
+	
+	[ShowIf("@this.OverrideDefaultValues")]public float MaxDistance;
+	[ShowIf("@this.OverrideDefaultValues")]public float Speed;
+	[ShowIf("@this.OverrideDefaultValues")]public float StartFadingPoint;
 	private Camera _camera;
 	bool _scanning;
 
 	private void Awake()
 	{
 		ResetEcholocation();
+		if (!OverrideDefaultValues)
+		{
+			MaxDistance = EchoDefaultValues.current.MaxDistance;
+			Speed = EchoDefaultValues.current.Speed;
+			StartFadingPoint = EchoDefaultValues.current.StartFadingPoint;
+		}
 	}
 
 	void Update()

@@ -36,12 +36,12 @@ Material:
     m_Floats:
     - _HBarVisibility: 0.2
     - _LeadSharp: 0.3
-    - _ScanDistance: 0
+    - _ScanDistance: 29.994627
     - _ScanWidth: 0.5
     - _Width: 16
     m_Colors:
     - _HBarColor: {r: 0, g: 0, b: 0, a: 0}
     - _LeadColor: {r: 0, g: 0, b: 0, a: 0}
-    - _MidColor: {r: 10, g: 10, b: 10, a: 0}
-    - _TrailColor: {r: 10, g: 10, b: 10, a: 0}
+    - _MidColor: {r: 2.0255988, g: 2.0255988, b: 2.0255988, a: 0}
+    - _TrailColor: {r: 2.0255988, g: 2.0255988, b: 2.0255988, a: 0}
   m_BuildTextureStacks: []

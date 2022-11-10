@@ -27,6 +27,7 @@ public class EcholocationController : MonoBehaviour
         foreach (var echo in EcholocationEffects)
         {
             echo.MaxDistance += newRange;
+            echo.StartFadingPoint = echo.MaxDistance * 0.8f;
         }
     }
 
@@ -35,6 +36,7 @@ public class EcholocationController : MonoBehaviour
         foreach (var echo in EcholocationEffects)
         {
             echo.MaxDistance = range;
+            echo.StartFadingPoint = echo.MaxDistance * 0.8f;
         }
     }
     
