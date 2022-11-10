@@ -8489,7 +8489,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 735eb22c138dc02438a9ff24b5209d2e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 25f04526505c3994caf44a1ad6136f81, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9696,40 +9696,40 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 393386592}
   dialog:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1839976672, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1839976672, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1839976672, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1839976672, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_7
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_8
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1839976672, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_9
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_10
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_11
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Mom_12
     DialogDuration: 5
 --- !u!1 &394050864
@@ -13775,8 +13775,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
+  m_sharedMaterial: {fileID: 6947159304876575808, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -13800,8 +13800,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55
-  m_fontSizeBase: 55
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -13867,7 +13867,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000061035, y: -255.14581}
+  m_AnchoredPosition: {x: 1.5643e-10, y: -70.825}
   m_SizeDelta: {x: 1920, y: 141.6508}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &538247140
@@ -14066,10 +14066,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   introDialog:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Intro_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Intro_3
     DialogDuration: 5
 --- !u!4 &545554551
@@ -14223,6 +14223,176 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 413468, guid: 1e4e7284c1efd5f4eb702c799353072c, type: 3}
   m_PrefabInstance: {fileID: 551993354}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &560757297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 560757298}
+  - component: {fileID: 560757300}
+  - component: {fileID: 560757299}
+  - component: {fileID: 560757301}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &560757298
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 560757297}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2042381877}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 464.9564, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &560757299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 560757297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: New Text
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
+  m_sharedMaterial: {fileID: 6947159304876575808, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &560757300
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 560757297}
+  m_CullTransparentMesh: 1
+--- !u!114 &560757301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 560757297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec234e199a763b43ae635ef329ef7ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LM: {fileID: 0}
+  SetOnStart: 1
+  B_alreadyStart: 0
+  AffectedComponents: 0
+  key: UI_Resume
+  keys: []
+  useAdvanceOptions: 0
+  advanceOptions: 0
+  LocalizationIndex: 0
+  rememberConfiguration: 0
+  OnLanguageSelection:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerAutomatically: 0
+  triggerIndex: 0
+  OnCustomEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  multipleStrings: 0
+  ForCustomComponent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &560835467
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24150,7 +24320,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 912579279}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.25063324, y: 0.74859065, z: 0.000054359436}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -25701,7 +25871,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 0}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -31717,85 +31887,85 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 1027799389}
   dialog:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_7
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_8
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_9
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_10
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_11
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_12
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_13
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_14
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_15
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_16
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_17
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_18
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_19
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_20
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_21
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_22
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_23
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_24
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_25
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1520973099, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_26
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Gabe_27
     DialogDuration: 5
 --- !u!1 &1051495469
@@ -36635,14 +36805,15 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1587132835}
   m_Father: {fileID: 330307959}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 5.1017, y: -145.216}
-  m_SizeDelta: {x: 174.3163, y: 98.7539}
+  m_SizeDelta: {x: 282.2072, y: 98.7539}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1236702654
 MonoBehaviour:
@@ -47251,6 +47422,176 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3.3354964, y: 1.9730948, z: 0.3636025}
   m_Center: {x: -1.4318169, y: 0.98736936, z: 0.006858741}
+--- !u!1 &1587132834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1587132835}
+  - component: {fileID: 1587132837}
+  - component: {fileID: 1587132836}
+  - component: {fileID: 1587132838}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1587132835
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1587132834}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1236702653}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 6.5352, y: 0}
+  m_SizeDelta: {x: 464.9564, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1587132836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1587132834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: New Text
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
+  m_sharedMaterial: {fileID: 6947159304876575808, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1587132837
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1587132834}
+  m_CullTransparentMesh: 1
+--- !u!114 &1587132838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1587132834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec234e199a763b43ae635ef329ef7ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LM: {fileID: 0}
+  SetOnStart: 1
+  B_alreadyStart: 0
+  AffectedComponents: 0
+  key: UI_Home
+  keys: []
+  useAdvanceOptions: 0
+  advanceOptions: 0
+  LocalizationIndex: 0
+  rememberConfiguration: 0
+  OnLanguageSelection:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerAutomatically: 0
+  triggerIndex: 0
+  OnCustomEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  multipleStrings: 0
+  ForCustomComponent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &1587466058
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48349,40 +48690,40 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 1632338273}
   dialog:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1489297442, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1489297442, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1489297442, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_7
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1489297442, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_8
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_9
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1489297442, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_10
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_11
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Dad_12
     DialogDuration: 5
 --- !u!1001 &1633717709
@@ -52399,8 +52740,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
+  m_sharedMaterial: {fileID: 6947159304876575808, guid: c98448348689ede4ba764c9c6a6c0df3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -52424,8 +52765,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -55123,43 +55464,43 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 1879414879}
   dialog:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -57782139, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -57782139, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -57782139, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -57782139, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_7
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_8
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -57782139, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_9
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_10
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -57782139, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_11
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_12
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Nicos_13
     DialogDuration: 5
 --- !u!1001 &1879762108
@@ -58904,49 +59245,49 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BossDialogsWin:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_7
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_7
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Win_8
     DialogDuration: 5
   - DialogCharacter: {fileID: 0}
@@ -58959,46 +59300,46 @@ MonoBehaviour:
     DialogKey: Dialog_Sam_Win_10
     DialogDuration: 5
   BossDialogsLose:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Lose_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Lose_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Lose_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Lose_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Lose_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Lose_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 1255846581, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Monster_9
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Sam_Lose_7
     DialogDuration: 5
   EndgameCanvas: {fileID: 733878494}
@@ -59324,7 +59665,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 560757298}
   m_Father: {fileID: 330307959}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -59752,31 +60094,31 @@ MonoBehaviour:
       m_Calls: []
   Echolocation: {fileID: 2051649810}
   dialog:
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1212176342, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_1
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_2
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1212176342, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_3
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_4
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1212176342, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_5
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_6
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: -1212176342, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_7
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_8
     DialogDuration: 5
-  - DialogCharacter: {fileID: 0}
+  - DialogCharacter: {fileID: 505400972, guid: cc691863131411f4f81cec5f4ab6f833, type: 3}
     DialogKey: Dialog_Bandit_9
     DialogDuration: 5
 --- !u!1 &2052157203

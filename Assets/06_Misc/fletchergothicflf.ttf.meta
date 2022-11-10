@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 05041d19c9066674d8f999b930d36755
+guid: 62c3734cd4e071a4988f176aff7c974c
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - DevLys 010
+  - FletcherGothicFLF
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
