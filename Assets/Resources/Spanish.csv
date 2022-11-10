@@ -1,120 +1,125 @@
 ﻿---TextKey---;---Translated Text---;---OriginalText---
-Dialog_Intro_1;;Sam: Where am I? What is this place?
-Dialog_Intro_2;;"""..."""
-Dialog_Intro_3;;Sam: Guess there’s nothing to do but try and get out of here…
-Dialog_Mom_1;;Mom: Oh there you are, Sammy!
-Dialog_Mom_2;;Mom!? What are you doing here? What even is this place?
-Dialog_Mom_3;;Mom: Oh don’t you worry about that, I’m just happy to see you.
-Dialog_Mom_4;;Sam: Mom… I think this is a little bit more concerning-
-Dialog_Mom_5;;Mom: Don’t be silly. It’s always good to have you around since you work so hard.
-Dialog_Mom_6;;Sam: It’s good to be prepared…
-Dialog_Mom_7;;Mom: Well, even so… Sammy, we would love to catch up over dinner? 
-Dialog_Mom_8;;Sam: I… I’ll think about it, okay, Mom?
-Dialog_Mom_9;;Mom: That’s fantastic! I’ll even make your favorite! Oh, take this with you. You might need it later. Keep an eye out for the others.
-Dialog_Mom_10;;*You got a companion bat*
-Dialog_Mom_11;;Sam: Uh…. thanks? 
-Dialog_Mom_12;;Sam *thinking*: This is so weird.
-Dialog_Dad_1;;Sam: Oh. You’re here too, Dad.
-Dialog_Dad_2;;Dad: Sammy! Hey there, Sport!
-Dialog_Dad_3;;Sam: Aaaand you can’t see the spooky forest either. Great.
-Dialog_Dad_4;;Dad: How about we go outside and play some catch? You haven’t given baseball a try in awhile.
-Dialog_Dad_5;;Sam: That’s because I wasn’t picked for the team…
-Dialog_Dad_6;;Dad: Oh forget about that! You love the sport! You can’t let one setback ruin something you loved so much. We can keep practicing together!
-Dialog_Dad_7;;Sam: …You’re not mad I didn’t make it first try?
-Dialog_Dad_8;;Dad: Of course not! But you will be if you don't  give up.
-Dialog_Dad_9;;Sam: Huh… Yeah. I’ll practice with you!
-Dialog_Dad_10;;Dad: Great! Oh, don’t forget this. I’ll see you later.
-Dialog_Dad_11;;*You got a companion bat!*
-Dialog_Dad_12;;Sam: Oh. Another one. Guess I’ll keep looking around.
-Dialog_Bandit_1;;Bandit: Hey! Sam! Over here!
-Dialog_Bandit_2;;Sam: Bandit? I haven’t seen you since we moved…
-Dialog_Bandit_3;;Bandit: Well, yeah… But that doesn’t mean we ever stopped being friends, does it? We can still play games together or watch movies over video calls!
-Dialog_Bandit_4;;Sam: Isn’t it weird over a screen?
-Dialog_Bandit_5;;Bandit: Only if you make it! But I’d love any excuse to hang out with you! If it is awkward I’ll run all the way over there myself! 
-Dialog_Bandit_6;;Sam: Yeah okay… That sounds fun I guess… I really do miss you.
-Dialog_Bandit_7;;Bandit: Aww, I miss you too. Let’s keep in touch! Take this with you too!
-Dialog_Bandit_8;;*You got a companion bat!*
-Dialog_Bandit_9;;Sam: Yeah. We will. I’ll see you around
-Dialog_Nicos_1;;Nicos: Hi Sam. How are ya?
-Dialog_Nicos_2;;Sam: Nicos. I’m stuck in a creepy forest. How do you think?
-Dialog_Nicos_3;;Nicos: Meh *shrugs*
-Dialog_Nicos_4;;Sam: Glad to see you’re as responsive as ever…
-Dialog_Nicos_5;;Nicos: We both don’t really have big reactions to things. That’s why we get along so well when we have a friend like Bandit.
-Dialog_Nicos_6;;Sam: Huh… I guess I thought you were annoyed by my attitude…
-Dialog_Nicos_7;;Nicos: What made you think that? We love that about you, Sam. Your sarcasm is hilarious.
-Dialog_Nicos_8;;Sam: Oh… Thanks, man.
-Dialog_Nicos_9;;Nicos: No problem. Now, you gotta tell me about that new game you’ve been playing at lunch tomorrow. Promise, dude.
-Dialog_Nicos_10;;Sam: I promise.
-Dialog_Nicos_11;;Nicos: Great! I’ll see you then. Now take this with you too.
-Dialog_Nicos_12;;*You got a companion bat!*
-Dialog_Nicos_13;;Sam: Yeah, yeah I’m going. Love ya too.
-Dialog_Gabe_1;;Gabe: Who goes there?
-Dialog_Gabe_2;;Sam: Gabe. It’s me.
-Dialog_Gabe_3;;Gabe: Who?
-Dialog_Gabe_4;;Sam: Sam.
-Dialog_Gabe_5;;Gabe: Who?
-Dialog_Gabe_6;;Sam: Your student?
-Dialog_Gabe_7;;Gabe: WhHoO?
-Dialog_Gabe_8;;Sam: I am not doing this with you again.
-Dialog_Gabe_9;;Gabe: *chuckles* I’m just messing with you. You’ve been working very hard, Sam.
-Dialog_Gabe_10;;Sam: Yeah, yeah. All A’s is hard work and-
-Dialog_Gabe_11;;Gabe: Not just with that. I know moving can be hard and you’ve been facing a lot of trifles in your life since then.
-Dialog_Gabe_12;;Sam: It’s fine… I’m fine.
-Dialog_Gabe_13;;Gabe: You may say that, but in reality, is anyone really “fine”?
-Dialog_Gabe_14;;Sam: Well everyone else…
-Dialog_Gabe_15;;Gabe: Everyone struggles with something, Sam. You’re never truly alone. You simply have to look.
-Dialog_Gabe_16;;Sam: Is… that why I’ve seen other people with my echolocation?
-Dialog_Gabe_17;;Gabe: Perhaps. Maybe reaching out encourages others to do the same.
-Dialog_Gabe_18;;Sam: I… guess I never thought about it like that. So… can I go home if I go through this area here?
-Dialog_Gabe_19;;Gabe: Indeed. But facing your struggles head on may be difficult alone. Are you sure you feel prepared enough?
-Dialog_Gabe_20;;Sam: I’m not sure yet…
-Dialog_Gabe_21;;Gabe: Alright then. Either way, I wish you luck Sam, and I hope to keep seeing you strive both inside and outside my classroom. Take this.
-Dialog_Gabe_22;;*You got a companion bat!
-Dialog_Gabe_23;;Sam: Thanks, Mr. Gabe
-Dialog_Gabe_24;;Gabe: Who?
-Dialog_Gabe_25;;Sam: NO.
-Dialog_Gabe_26;;Gabe: *chuckles* You’re so easy to tease. Carry on. But don’t forget that you can always start over if needed. These things can take as long as you need, and this is not the end.
-Dialog_Gabe_27;;Sam: Sure. Thank you for everything. All of you.
-Dialog_Monster_1;;Monster: So you’ve finally made it to me. I’m surprised considering you can’t get out of your own head.
-Dialog_Monster_2;;Monster: I doubt that’d get you very far. You can’t even leave your room half the time.
-Dialog_Monster_3;;Monster: And what about dear old dad? He taught you everything about sports and yet you can’t make the team? How useless!
-Dialog_Monster_4;;Monster: Hmm. Moving has likely left you stranded and alone. Poor Bandit. You’ll never see them again.
-Dialog_Monster_5;;Monster: Nicos doesn’t really like you. You’re mean and sarcastic. Who would want a friend like that?
-Dialog_Monster_6;;Monster: Mr. Gabe only gets along with you so much because you do so well in his class. You’d be nothing if you couldn’t succeed.
-Dialog_Monster_7;;Monster: Um-
-Dialog_Monster_8;;Monster: You really think they care? That you matter?
-Dialog_Monster_9;;Monster: I AM right. That’s what I’ve been telling you all along.
-Dialog_Sam_Win_1;;Sam: Well, clearly that’s what I’m trying to do weird… nightmare… blob thingy.
-Dialog_Sam_Win_2;;Sam: It’s a safe space… Besides. My mom will always be waiting for me when I’m ready to come out.
-Dialog_Sam_Win_3;;Sam: Dad spends time playing with me because he loves me. Not so he can succeed through me.
-Dialog_Sam_Win_4;;Sam:  I love baseball and I love playing with my dad. I’m not gonna let that ruin it for me.
-Dialog_Sam_Win_5;;Sam: The internet exists. But even so, Bandit is still with me and the fun times we had will never fade. Even if there’s distance between us.
-Dialog_Sam_Win_6;;Sam: If Nicos didn’t accept me for who I am then he wasn’t a friend to begin with. But he does. He loves being my friend and I love being his.
-Dialog_Sam_Win_7;;Sam: Succeeding doesn’t equate to my worth as a person. Mr. Gabe knows that. That’s why he’s supported me for so long, even now when I’m struggling.
-Dialog_Sam_Win_8;;Sam: Actually… that’s it.. That’s what my mind’s been showing me this whole time. It’s not just Mr. Gabe… 
-Dialog_Sam_Win_9;;Sam: Everyone here has been trying to support me. I just… wasn’t ready to see it. Wasn’t ready to ask for help.. But now I am.
-Dialog_Sam_Win_10;;Sam: Of course I do. And I won’t let you consume me anymore. I’m going home.
-Dialog_Sam_Lose_1;;Sam: Well, clearly that’s what I’m trying to do weird… nightmare… blob thingy.
-Dialog_Sam_Lose_2;;Sam: You don’t know what you’re talking about…
-Dialog_Sam_Lose_3;;Sam: He did seem pretty upset.
-Dialog_Sam_Lose_4;;Sam: Bandit…
-Dialog_Sam_Lose_5;;Sam: It’s just how I am… but…
-Dialog_Sam_Lose_6;;Sam: … Maybe you’re… right…
-Dialog_Sam_Lose_7;;Sam: No.. NO!
-Dialog_Sam_Lose_8;;Sam: Where am I? What is this place?
-Sialog_KeepTrying;;Keep Trying
-Whisper_1;;Behind you
-Whisper_2;;[Creapy sounds]
-Whisper_3;;Somethimes the things you see in shadows are more than just shadows
-Whisper_4;;There are somethings you are just not strongh enough to forget
-Whisper_5;;[Creapy sounds]
-Whisper_6;;I will return
-Whisper_7;;I'll never let you go
-Whisper_8;;They wouldn't miss you
-Whisper_9;;I think you are stupid, they think you are stupid, you are worthless, you are pathetic
-Whisper_10;;I know you can't see me, but I'm standing right beside you
-Whisper_11;;you screw everything
-UI_StartGame;;Start Game
-UI_Resume;;Resume
-UI_Home;;Home
-UI_How;;How to Play
+Dialog_Intro_1;Sam: ¿Dónde estoy? ¿Qué es este lugar?;Sam: Where am I? What is this place?
+Dialog_Intro_2;"""...""";"""..."""
+Dialog_Intro_3;Sam: Supongo que solo me queda buscar la salida;Sam: Guess there’s nothing to do but try and get out of here…
+Dialog_Mom_1;Mamá: Oh, ahí estas Sammy;Mom: Oh there you are, Sammy!
+Dialog_Mom_2;Sam: ¿Mamá?, ¿Qué haces en este lugar?;Mom!? What are you doing here? What even is this place?
+Dialog_Mom_3;Mamá: Oh, no te preocupes, me alegro de verte;Mom: Oh don’t you worry about that, I’m just happy to see you.
+Dialog_Mom_4;Sam: Mamá… Creo que esto es un poco preocupante-;Sam: Mom… I think this is a little bit more concerning-
+Dialog_Mom_5;Mamá: No te preocupes. Siempre es bueno verte ya que trabajas tanto;Mom: Don’t be silly. It’s always good to have you around since you work so hard.
+Dialog_Mom_6;Sam: Me gusta estar preparado…;Sam: It’s good to be prepared…
+Dialog_Mom_7;Mamá: Bueno, aún así… Sammy, nos ponemos al día durante la cena?;Mom: Well, even so… Sammy, we would love to catch up over dinner? 
+Dialog_Mom_8;Sam: Yo… Lo pensare.;Sam: I… I’ll think about it, okay, Mom?
+Dialog_Mom_9;Mamá: Perfecto, te preparare tu comida favorita. Oh, llevate esto, puede que lo necesites. Fijate por si encuentras otros;Mom: That’s fantastic! I’ll even make your favorite! Oh, take this with you. You might need it later. Keep an eye out for the others.
+Dialog_Mom_10;*Conseguiste un muercielago de compañia*;*You got a companion bat*
+Dialog_Mom_11;Sam:Eh… ¿Gracias?;Sam: Uh…. thanks? 
+Dialog_Mom_12;Sam: Esto es muy raro;Sam *thinking*: This is so weird.
+Dialog_Dad_1;Sam: ¿También estás aquí papá? ;Sam: Oh. You’re here too, Dad.
+Dialog_Dad_2;Papá: ¡Sammy! ¿Qué pasa campeon?;Dad: Sammy! Hey there, Sport!
+Dialog_Dad_3;Sam: Y obviamente no ves el bosque tenebroso tampoco, genial;Sam: Aaaand you can’t see the spooky forest either. Great.
+Dialog_Dad_4;Papá: ¿Qué tal si jugamos football un poco? Hace mucho que no practicas;Dad: How about we go outside and play some catch? You haven’t given baseball a try in awhile.
+Dialog_Dad_5;Sam: Eso es porque no quede en el equipo…;Sam: That’s because I wasn’t picked for the team…
+Dialog_Dad_6;Papá: Olvidate de eso, ¡Te encanta el football! No puedes dejar que eso te arruine algo que amas tanto, ¡podemos practicar juntos!;Dad: Oh forget about that! You love the sport! You can’t let one setback ruin something you loved so much. We can keep practicing together!
+Dialog_Dad_7;Sam: ¿No estas molesto porque quedara fuera?;Sam: …You’re not mad I didn’t make it first try?
+Dialog_Dad_8;Papá: ¡Pero claro que no! Pero quedaras eventualmente si no te rinder;Dad: Of course not! But you will be if you don't  give up.
+Dialog_Dad_9;Sam: Eh… esta bien, practiquemos juntos despues ;Sam: Huh… Yeah. I’ll practice with you!
+Dialog_Dad_10;Papá: Perfecto. Oh, y no te olvides de esto. Nos vemos despues.;Dad: Great! Oh, don’t forget this. I’ll see you later.
+Dialog_Dad_11;*Conseguiste un muercielago de compañia*;*You got a companion bat!*
+Dialog_Dad_12;Sam: Oh… otro de estos, supongo que seguire buscando.;Sam: Oh. Another one. Guess I’ll keep looking around.
+Dialog_Bandit_1;Bandit: ¡Oye Sam! ¡Por aquí! ;Bandit: Hey! Sam! Over here!
+Dialog_Bandit_2;Sam: ¿Bandit? No te veo desde que nos mudamos;Sam: Bandit? I haven’t seen you since we moved…
+Dialog_Bandit_3;Bandit: Supongo… pero eso no significa que dejemos de ser amigos.  Aun podemos jugar o ver peliculas por videollamada.;Bandit: Well, yeah… But that doesn’t mean we ever stopped being friends, does it? We can still play games together or watch movies over video calls!
+Dialog_Bandit_4;Sam: ¿No seria raro hacerlo en linea?;Sam: Isn’t it weird over a screen?
+Dialog_Bandit_5;Bandit: No tiene porque serlo, cualquier excusa es valida con tal de pasar tiempo juntos. Si hace falta puedo viajar hasta allá.;Bandit: Only if you make it! But I’d love any excuse to hang out with you! If it is awkward I’ll run all the way over there myself! 
+Dialog_Bandit_6;Sam: Si… supongo… Suena bien, te he echado mucho de menos.;Sam: Yeah okay… That sounds fun I guess… I really do miss you.
+Dialog_Bandit_7;Bandit: Yo tambien te he echado de menos. Hablemos un día de estos, y llevate esto contigo.;Bandit: Aww, I miss you too. Let’s keep in touch! Take this with you too!
+Dialog_Bandit_8;*Conseguiste un muercielago de compañia*;*You got a companion bat!*
+Dialog_Bandit_9;Sam: Si, te vere despues.;Sam: Yeah. We will. I’ll see you around
+Dialog_Nicos_1;Nicos: Hola Sam, ¿Cómo estás? ;Nicos: Hi Sam. How are ya?
+Dialog_Nicos_2;Sam: Nicos, estoy atrapado en un bosque horrendo ¿tu qué crees?;Sam: Nicos. I’m stuck in a creepy forest. How do you think?
+Dialog_Nicos_3;Nicos: *Se encoje de hombros*;Nicos: Meh *shrugs*
+Dialog_Nicos_4;Sam: Bueno ver que sigues siendo tan conversador como siempre;Sam: Glad to see you’re as responsive as ever…
+Dialog_Nicos_5;Nicos:  Nosotros no somos de los que solemos reaccionar mucho a las cosas, por eso nos llevamos tan bien con Bandit.;Nicos: We both don’t really have big reactions to things. That’s why we get along so well when we have a friend like Bandit.
+Dialog_Nicos_6;Sam:Supongo… A decir verdar siempre pense que te moletaba esa actitud.;Sam: Huh… I guess I thought you were annoyed by my attitude…
+Dialog_Nicos_7;Nicos: ¿Por qué pensbas eso? Nunca nos ha molestado, tu sarcasmo es de las cosas que más no gusta de ti.;Nicos: What made you think that? We love that about you, Sam. Your sarcasm is hilarious.
+Dialog_Nicos_8;Sam: Oh… gracias.;Sam: Oh… Thanks, man.
+Dialog_Nicos_9;Nicos: De nada. Otra cosa, que no se te olvide mañana contarme de ese nuevo juego que has estado jugando.;Nicos: No problem. Now, you gotta tell me about that new game you’ve been playing at lunch tomorrow. Promise, dude.
+Dialog_Nicos_10;Sam: No lo hare, lo prometo.;Sam: I promise.
+Dialog_Nicos_11;Nicos: ¡Genial! Mañana nos vemos entonces. Y llevate esto contigo;Nicos: Great! I’ll see you then. Now take this with you too.
+Dialog_Nicos_12;*Conseguiste un muercielago de compañia*;*You got a companion bat!*
+Dialog_Nicos_13;Sam: Eso haré, nos vemos mañana.;Sam: Yeah, yeah I’m going. Love ya too.
+Dialog_Gabe_1;Gabe: ¿Quién esta ahí?;Gabe: Who goes there?
+Dialog_Gabe_2;Sam:¿Gabe? Soy yo;Sam: Gabe. It’s me.
+Dialog_Gabe_3;Gabe: ¿Quién?;Gabe: Who?
+Dialog_Gabe_4;Sam: Yo, Sam.;Sam: Sam.
+Dialog_Gabe_5;Gabe: ¿Quién?;Gabe: Who?
+Dialog_Gabe_6;Sam: Tu estudiante;Sam: Your student?
+Dialog_Gabe_7;Gabe: ¿Quiéeeen?;Gabe: WhHoO?
+Dialog_Gabe_8;Sam: No puedo creer que caí de nuevo en esto;Sam: I am not doing this with you again.
+Dialog_Gabe_9;Gabe: Jajajaja, solo te estoy molestando un poco. Has trabajado muy duro ultimamente Sam.;Gabe: *chuckles* I’m just messing with you. You’ve been working very hard, Sam.
+Dialog_Gabe_10;Sam: Si, sacar solo 10 requiere mucho esfuerzo y- ;Sam: Yeah, yeah. All A’s is hard work and-
+Dialog_Gabe_11;Gabe: No hablo de eso. Se que la mudanza debio ser muy dificil para ti.;Gabe: Not just with that. I know moving can be hard and you’ve been facing a lot of trifles in your life since then.
+Dialog_Gabe_12;Sam: Estoy bien… no es nada.;Sam: It’s fine… I’m fine.
+Dialog_Gabe_13;Gabe: Quizas digas eso pero… ¿de verdad estás bien?;Gabe: You may say that, but in reality, is anyone really “fine”?
+Dialog_Gabe_14;Sam: Supongo… como todos…;Sam: Well everyone else…
+Dialog_Gabe_15;Gabe: Todos tienen problemas Sam. No eres el unico que pasa por lo mismo, solo tienes que ver a tu alrededor.;Gabe: Everyone struggles with something, Sam. You’re never truly alone. You simply have to look.
+Dialog_Gabe_16;Sam: ¿Por eso puedo ver a otras personas con mi ecolocalización?;Sam: Is… that why I’ve seen other people with my echolocation?
+Dialog_Gabe_17;Gabe: Puede ser. Quizás buscar ayuda motiva a otros a hacer lo mismo;Gabe: Perhaps. Maybe reaching out encourages others to do the same.
+Dialog_Gabe_18;Sam: Supongo que nunca lo pense de esa forma. Osea que… ¿puedo ir a casa si sigo por aquí?;Sam: I… guess I never thought about it like that. So… can I go home if I go through this area here?
+Dialog_Gabe_19;Gabe: Así es, pero enfrentarte a los demonios de ti mente puede ser dificil sin la ayuda adecuada. ¿Seguro que estas listo?;Gabe: Indeed. But facing your struggles head on may be difficult alone. Are you sure you feel prepared enough?
+Dialog_Gabe_20;Sam: No lo se;Sam: I’m not sure yet…
+Dialog_Gabe_21;Gabe:  De igual forma te deseo suerte y espero seguir viendote prosperar, tanto en la escuela como fuera de ella. Toma esto.;Gabe: Alright then. Either way, I wish you luck Sam, and I hope to keep seeing you strive both inside and outside my classroom. Take this.
+Dialog_Gabe_22;*Conseguiste un muercielago de compañia*;*You got a companion bat!
+Dialog_Gabe_23;Sam: Gracias señor Gabe.;Sam: Thanks, Mr. Gabe
+Dialog_Gabe_24;Gabe: ¿Quiéeeen?;Gabe: Who?
+Dialog_Gabe_25;Sam: No de nuevo…;Sam: NO.
+Dialog_Gabe_26;Gabe: Jajaja, es muy facil molestarte. Continua tu camino y no olvides que siempre puedes volver a intentarlo si lo necesitas. Estas cosas toman tiempo, asegurate de tomarte todo el que necesites. No tiene porque ser el final.;Gabe: *chuckles* You’re so easy to tease. Carry on. But don’t forget that you can always start over if needed. These things can take as long as you need, and this is not the end.
+Dialog_Gabe_27;Sam: De acuerdo, gracias por todo.;Sam: Sure. Thank you for everything. All of you.
+Dialog_Monster_1;Monstruo: Asi que al fin decides aparecer. Me sorprende considerando que no eres capaz de escapar de tu propia cabeza;Monster: So you’ve finally made it to me. I’m surprised considering you can’t get out of your own head.
+Dialog_Monster_2;Monstruo: No esperaba que llegaras tan lejos, menos aún teniendo en cuenta que no eres capaz de salir de tu habitación la mitad del tiempo.;Monster: I doubt that’d get you very far. You can’t even leave your room half the time.
+Dialog_Monster_3;Monstruo: ¿Y que hay sobre tu padre? Te enseño todo lo que sabia sobre football y aún así no lograste quedar en el equipo. ¡Que inutil!;Monster: And what about dear old dad? He taught you everything about sports and yet you can’t make the team? How useless!
+Dialog_Monster_4;Monstruo: Hmmm. La mudanza te ha dejado solo y abandonado. Pobre Bandit… Nunca lo volveras a ver;Monster: Hmm. Moving has likely left you stranded and alone. Poor Bandit. You’ll never see them again.
+Dialog_Monster_5;Monstruo: A Nicos no le agradas realmente. Con tu actitud y tu sarcasmo… ¿Quién podria querer un amigo así?;Monster: Nicos doesn’t really like you. You’re mean and sarcastic. Who would want a friend like that?
+Dialog_Monster_6;Monstruo: Al señor Gabe solo le agradas porque te va bien en su clase. No eres nada sin eso;Monster: Mr. Gabe only gets along with you so much because you do so well in his class. You’d be nothing if you couldn’t succeed.
+Dialog_Monster_7;Monstruo: Eh…;Monster: Um-
+Dialog_Monster_8;Monstruo: ¿Realmente crees que les importas? ¿Qué tu importas? ;Monster: You really think they care? That you matter?
+Dialog_Monster_9;Monstruo: POR SUPUESTO QUE TENGO RAZÓN. Eso es lo que llevo susurrandote al oido desde el inicio;Monster: I AM right. That’s what I’ve been telling you all along.
+Dialog_Sam_Win_1;Sam: ¿Qué crees que llevo intentando desde el principio? Cosa… rara…deforme;Sam: Well, clearly that’s what I’m trying to do weird… nightmare… blob thingy.
+Dialog_Sam_Win_2;Sam: Es un espacio seguro… Ademas mi mamá siempre estara esperandome para cuando este listo para salir;Sam: It’s a safe space… Besides. My mom will always be waiting for me when I’m ready to come out.
+Dialog_Sam_Win_3;Sam: Papá le gusta practicar conmigo porque le gusta pasar tiempo conmigo. No porque proyecto sus sueños en mi;Sam: Dad spends time playing with me because he loves me. Not so he can succeed through me.
+Dialog_Sam_Win_4;Sam: Me gusta el football y me gusta pasar tiempo con mi papá. No voy a dejar que arruines eso;Sam:  I love baseball and I love playing with my dad. I’m not gonna let that ruin it for me.
+Dialog_Sam_Win_5;Sam: El internet existe. I aunque no fuera el caso, siempre seremos amigos, no importa la distancia ni el tiempo;Sam: The internet exists. But even so, Bandit is still with me and the fun times we had will never fade. Even if there’s distance between us.
+Dialog_Sam_Win_6;Sam: Si no le agradara como soy no seria mi amigo en primer lugar. Pero lo hacer, le gusta ser mi amigo y a mi me gusta ser el suyo;Sam: If Nicos didn’t accept me for who I am then he wasn’t a friend to begin with. But he does. He loves being my friend and I love being his.
+Dialog_Sam_Win_7;Sam: El valor de una persona no se mide por su éxito. El señor Gabe lo sabe y por eso me ha ayudado tanto, sobre todo ahora;Sam: Succeeding doesn’t equate to my worth as a person. Mr. Gabe knows that. That’s why he’s supported me for so long, even now when I’m struggling.
+Dialog_Sam_Win_8;Sam: De hecho… eso es… eso es lo que mi mente me ha estado intentando mostrar todo este tiempo, no solo el señor Gabe;Sam: Actually… that’s it.. That’s what my mind’s been showing me this whole time. It’s not just Mr. Gabe… 
+Dialog_Sam_Win_9;Sam:Todos aquí han estado ayudandome. Solo no estaba listo para verlo. No estaba listo para pedir ayuda… Pero ahora lo estoy;Sam: Everyone here has been trying to support me. I just… wasn’t ready to see it. Wasn’t ready to ask for help.. But now I am.
+Dialog_Sam_Win_10;Sam: Obvio que les importo. No voy a dejar que me sigas consumiento. Me voy de aquí;Sam: Of course I do. And I won’t let you consume me anymore. I’m going home.
+Dialog_Sam_Lose_1;Sam: ¿Qué crees que llevo intentando desde el principio? Cosa… rara…deforme;Sam: Well, clearly that’s what I’m trying to do weird… nightmare… blob thingy.
+Dialog_Sam_Lose_2;Sam: No sabes de lo que hablas;Sam: You don’t know what you’re talking about…
+Dialog_Sam_Lose_3;Sam: Parecia bastante molesto...;Sam: He did seem pretty upset.
+Dialog_Sam_Lose_4;Sam: Bueno ver que sigues siendo tan conversador como siempre;Sam: Bandit…
+Dialog_Sam_Lose_5;Sam: Bandit…;Sam: It’s just how I am… but…
+Dialog_Sam_Lose_6;Sam: Quizas… quizas tengas razón…;Sam: … Maybe you’re… right…
+Dialog_Sam_Lose_7;Sam: No… ¡NO!;Sam: No.. NO!
+Dialog_Sam_Lose_8;Sam: ¿Dónde estoy? ¿Qué es este lugar?;Sam: Where am I? What is this place?
+Sialog_KeepTrying; Sigue intentandolo;Keep Trying
+Whisper_1;Atrás tuyo;Behind you
+Whisper_2;[Sonidos espeluznantes];[Creapy sounds]
+Whisper_3;A veces, las cosas que ves en las sombras, son más que sombras;Somethimes the things you see in shadows are more than just shadows
+Whisper_4;Hay cosas que no eres lo sufucientemente fuerte como para olvidar;There are somethings you are just not strongh enough to forget
+Whisper_5;[Sonidos espeluznantes];[Creapy sounds]
+Whisper_6;Volvere;I will return
+Whisper_7;Nunca te dejare ir;I'll never let you go
+Whisper_8;No te extrañaran;They wouldn't miss you
+Whisper_9;Eres estupido, ellos creen que eres estupido, no vales nada, eres patetico;I think you are stupid, they think you are stupid, you are worthless, you are pathetic
+Whisper_10;Se que no me puedes ver, pero estoy siempre a tu lado;I know you can't see me, but I'm standing right beside you
+Whisper_11;Lo arruinas todo;you screw everything
+UI_StartGame;Jugar;Start Game
+UI_Resume;Continuar;Resume
+UI_Home;Volver;Home
+UI_How;Cómo jugar;How to Play
+UI_Move;Moverse;
+UI_Jump;Saltar;
+UI_Echo;Ecolocalización;
+UI_Talk;Hablar;
+UI_Credits;Creditos;

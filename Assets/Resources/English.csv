@@ -2,7 +2,7 @@
 Dialog_Intro_2;"""..."""
 Dialog_Intro_3;Sam: Guess there’s nothing to do but try and get out of here…
 Dialog_Mom_1;Mom: Oh there you are, Sammy!
-Dialog_Mom_2;Mom!? What are you doing here? What even is this place?
+Dialog_Mom_2;Sam: Mom!? What are you doing here? What even is this place?
 Dialog_Mom_3;Mom: Oh don’t you worry about that, I’m just happy to see you.
 Dialog_Mom_4;Sam: Mom… I think this is a little bit more concerning-
 Dialog_Mom_5;Mom: Don’t be silly. It’s always good to have you around since you work so hard.
@@ -117,3 +117,8 @@ UI_StartGame;Start Game
 UI_Resume;Resume
 UI_Home;Home
 UI_How;How to Play
+UI_Move;Walk
+UI_Jump;Jump
+UI_Echo;Echolocation
+UI_Talk;Talk
+UI_Credits;Credits
