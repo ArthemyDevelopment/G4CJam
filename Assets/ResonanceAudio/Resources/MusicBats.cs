@@ -5,8 +5,7 @@ using UnityEngine.Audio;
 public class MusicBats : MonoBehaviour
 {
 
-    public AudioMixer MusicMixer;
-    public float StartVolume;
+    public AudioSource Music;
     public float volumeToAdd;
     float currLevel;
 
@@ -18,12 +17,12 @@ public class MusicBats : MonoBehaviour
     public void AddVolume()
     {
         currLevel += volumeToAdd;
-        MusicMixer.SetFloat("Volume", currLevel);
+        Music.volume = currLevel;
     }
 
     public void ResetVolume()
-    {
-       MusicMixer.SetFloat("Volume", StartVolume);
-       currLevel = StartVolume;
+    { 
+       Music.volume = 0;
+       currLevel = 0;
     }
 }

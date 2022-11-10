@@ -28,8 +28,8 @@ public class PickUpElementController : MonoBehaviour, IEchoElement
         TriggerDialog();
         if (alreadyPickedUp) return;
         alreadyPickedUp = true;
-        LocalOnPickElement.Invoke();
-        PickUpElementsManager.current.PickUpElement();
+        DialogsManager.current.OnDialogFinish+=LocalOnPickElement.Invoke;
+        DialogsManager.current.OnDialogFinish+=PickUpElementsManager.current.PickUpElement;
     }
 
     public void ResetElement()

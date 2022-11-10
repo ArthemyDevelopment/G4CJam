@@ -3,24 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/Movement2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/Movement2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/EnumHolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/EnumHolder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/BossEffect.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/BossEffect.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/05_Animations/01_Dialogs/ShowDialog.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/05_Animations/01_Dialogs/ShowDialog.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ResonanceAudio/Resources/MusicBats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ResonanceAudio/Resources/MusicBats.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/English.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/English.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Hindi.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Hindi.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Spanish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Spanish.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/fb/aa6f266f/Int32.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c8abf3742e6748e7b9189dcdd9de2f8afe00/02/6001289f/AudioMixerGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/00_Player/CompanionBatsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerEcholocationController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/00_Player/PlayerInteract.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementsManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -114,7 +105,7 @@
       <workItem from="1667932052357" duration="11043000" />
       <workItem from="1668006660356" duration="18861000" />
       <workItem from="1668085421624" duration="2904000" />
-      <workItem from="1668108343347" duration="2763000" />
+      <workItem from="1668108343347" duration="7395000" />
     </task>
     <servers />
   </component>

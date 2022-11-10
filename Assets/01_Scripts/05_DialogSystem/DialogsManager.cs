@@ -22,12 +22,17 @@ public class DialogsManager : SingletonManager<DialogsManager>
     private List<Dialog> currDialogs=new List<Dialog>();
     private Coroutine DialogRutine;
     public float TimePerChar= 0.12f;
-
+    public AudioSource VoiceSound;
+    public AudioSource DialogSound;
+    private string currText;
     private int currDialogIndex;
+    private TMP_Text TMPtext;
+    
     private void Awake()
     {
         init();
         DialogAnimation = GetComponent<Animator>();
+        TMPtext = DialogText.GetComponent<TMP_Text>();
     }
 
     public void SetDialog(Dialog currDialog)
@@ -60,7 +65,13 @@ public class DialogsManager : SingletonManager<DialogsManager>
             CharacterIcon.sprite = currDialogs[currDialogIndex].DialogCharacter;
             DialogText.key = currDialogs[currDialogIndex].DialogKey;
             DialogText.SetLocalizedObject();
-            DialogRutine=StartCoroutine(DialogTimer(DialogText.GetComponent<TMP_Text>().text.Length*TimePerChar));
+            currText = TMPtext.text;
+            if (currDialogs[currDialogIndex].voiceAudio != null)
+            {
+                VoiceSound.clip = currDialogs[currDialogIndex].voiceAudio;
+                VoiceSound.Play();
+            }
+            DialogRutine=StartCoroutine(DialogTimer(currText.Length*TimePerChar));
             currDialogIndex++;
         }
         else
@@ -79,7 +90,17 @@ public class DialogsManager : SingletonManager<DialogsManager>
     }
     IEnumerator DialogTimer(float duration)
     {
-        yield return ScriptsTools.GetWait(duration);
+        float temp = duration / currText.Length;
+        for (int i = 0; i < currText.Length; i++)
+        {
+            TMPtext.maxVisibleCharacters = i+1;
+            DialogSound.Play();
+            yield return ScriptsTools.GetWait(temp); 
+            DialogSound.Stop();
+        }
+        DialogSound.Stop();
+        yield return ScriptsTools.GetWait(3); 
+        
         NextDialog();
     }
 
@@ -99,5 +120,5 @@ public struct Dialog
     public Sprite DialogCharacter;
     public string DialogKey;
     public float DialogDuration;
-    //public AudioClip voiceAudio;
+    public AudioClip voiceAudio;
 }

@@ -156,7 +156,7 @@ public class Movement2 : SingletonManager<Movement2>
         RaycastHit hit;
         if (Physics.Raycast(transform.position, Vector3.down, out hit, .2f))
         {
-            if (hit.distance <= .1)
+            if (hit.distance <= .2)
             {
                 isGrounded = true;
                 PlayerAnim.SetBool("IsJumping", false);
