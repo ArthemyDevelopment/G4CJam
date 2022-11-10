@@ -269,7 +269,7 @@ MonoBehaviour:
   useAdvanceOptions: 1
   advanceOptions: 0
   LocalizationIndex: 1
-  rememberConfiguration: 1
+  rememberConfiguration: 0
   OnLanguageSelection:
     m_PersistentCalls:
       m_Calls:
@@ -450,7 +450,7 @@ MonoBehaviour:
   useAdvanceOptions: 1
   advanceOptions: 0
   LocalizationIndex: 0
-  rememberConfiguration: 1
+  rememberConfiguration: 0
   OnLanguageSelection:
     m_PersistentCalls:
       m_Calls:
@@ -1159,7 +1159,7 @@ MonoBehaviour:
   useAdvanceOptions: 1
   advanceOptions: 0
   LocalizationIndex: 3
-  rememberConfiguration: 1
+  rememberConfiguration: 0
   OnLanguageSelection:
     m_PersistentCalls:
       m_Calls:
@@ -1340,7 +1340,7 @@ MonoBehaviour:
   useAdvanceOptions: 1
   advanceOptions: 0
   LocalizationIndex: 4
-  rememberConfiguration: 1
+  rememberConfiguration: 0
   OnLanguageSelection:
     m_PersistentCalls:
       m_Calls:
@@ -1637,7 +1637,7 @@ MonoBehaviour:
   useAdvanceOptions: 1
   advanceOptions: 0
   LocalizationIndex: 2
-  rememberConfiguration: 1
+  rememberConfiguration: 0
   OnLanguageSelection:
     m_PersistentCalls:
       m_Calls:
