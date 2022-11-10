@@ -1,15 +1,13 @@
 
-
-using TMPro;
 using UnityEngine;
 
 public class HindiFontSetting : MonoBehaviour
 {
 
-    public static TMP_FontAsset HindiFont;
-    public static TMP_FontAsset LatinFont;
-    public static int HindiIndex;
-    private void OnEnable()
+    public GameObject Hindi;
+    public GameObject Latin;
+    public static int HindiIndex= 2;
+    private void Awake()
     {
         if (PlayerPrefs.HasKey("ADLocalizationIndex"))
         {
@@ -17,11 +15,14 @@ public class HindiFontSetting : MonoBehaviour
 
             if (temp == HindiIndex)
             {
-                GetComponent<TMP_Text>().font = HindiFont;
+                
+                Hindi.gameObject.SetActive(true);
+                Latin.gameObject.SetActive(false);
             }
             else
             {
-                GetComponent<TMP_Text>().font = LatinFont;
+                Hindi.gameObject.SetActive(true);
+                Latin.gameObject.SetActive(false);
                 
             }
             

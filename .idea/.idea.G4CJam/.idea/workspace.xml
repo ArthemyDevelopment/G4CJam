@@ -3,25 +3,24 @@
   <component name="ChangeListManager">
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/03_Echolocation/EcholocationEffect.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/02_Art/01_Sprites/New Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/02_Art/01_Sprites/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/EnumHolder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/EnumHolder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/BossEffect.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/BossEffect.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/ScannerEffect.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/02_Art/04_PostProcessing/Scanner Effect/ScannerEffect.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/03_Sounds/00_Whispers/portuguesewhisper1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/03_Sounds/00_Whispers/portuguesewhisper1.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/05_Animations/01_Dialogs/ShowDialog.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/05_Animations/01_Dialogs/ShowDialog.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/English.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/English.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/French.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/French.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Hindi.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Hindi.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Portuguese.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Portuguese.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Spanish.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Spanish.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/TemplateFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/TemplateFile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/ArthemyDevelopment/LocalizationTool/Scripts/LocalizationObject.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ResonanceAudio/Resources/MusicBats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.2.2/PostProcessing/Runtime/PostProcessEffectRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -113,7 +113,8 @@
       <workItem from="1667831400523" duration="10247000" />
       <workItem from="1667932052357" duration="11043000" />
       <workItem from="1668006660356" duration="18861000" />
-      <workItem from="1668085421624" duration="1697000" />
+      <workItem from="1668085421624" duration="2904000" />
+      <workItem from="1668108343347" duration="2763000" />
     </task>
     <servers />
   </component>

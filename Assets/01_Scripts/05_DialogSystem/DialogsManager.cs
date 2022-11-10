@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using ArthemyDevelopment.Localization;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -20,6 +21,7 @@ public class DialogsManager : SingletonManager<DialogsManager>
     public WhisperController whispers;
     private List<Dialog> currDialogs=new List<Dialog>();
     private Coroutine DialogRutine;
+    public float TimePerChar= 0.12f;
 
     private int currDialogIndex;
     private void Awake()
@@ -58,7 +60,7 @@ public class DialogsManager : SingletonManager<DialogsManager>
             CharacterIcon.sprite = currDialogs[currDialogIndex].DialogCharacter;
             DialogText.key = currDialogs[currDialogIndex].DialogKey;
             DialogText.SetLocalizedObject();
-            DialogRutine=StartCoroutine(DialogTimer(currDialogs[currDialogIndex].DialogDuration));
+            DialogRutine=StartCoroutine(DialogTimer(DialogText.GetComponent<TMP_Text>().text.Length*TimePerChar));
             currDialogIndex++;
         }
         else

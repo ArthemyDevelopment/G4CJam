@@ -71,7 +71,7 @@ namespace ArthemyDevelopment.Localization
 		void OnEnable()
         {
             LM = LocalizationManager.current;
-            if(B_alreadyStart&& SetOnStart)
+            if(B_alreadyStart)
                 SetLocalizedObject();
         }
 
@@ -104,7 +104,13 @@ namespace ArthemyDevelopment.Localization
             {
                 case Components.Text:
                     Text = GetComponent<TMP_Text>();
-                    Text.text = LM.GetLocalizationValue(key);
+                    if(Text!=null)
+                        Text.text = LM.GetLocalizationValue(key);
+                    else
+                    {
+                        Text text = GetComponent<Text>();
+                        text.text= LM.GetLocalizationValue(key);
+                    }
                     break;
 
                 case Components.ButtonUI:
@@ -114,7 +120,14 @@ namespace ArthemyDevelopment.Localization
                         case AdvanceOptions.SetLanguage:
 
                             Text = transform.GetChild(0).GetComponent<TMP_Text>();
-                            Text.text = LM.currentsLanguages[LocalizationIndex].S_Name;
+                            if(Text!=null)
+                                Text.text = LM.currentsLanguages[LocalizationIndex].S_Name;
+                            else
+                            {
+                                Text text = transform.GetChild(0).GetComponent<Text>();
+                                text.text = LM.currentsLanguages[LocalizationIndex].S_Name;
+                            }
+                            
                             Button tempBtn = GetComponent<Button>();
                             tempBtn.onClick.AddListener(() =>
                                 LM.LoadTextFile(LM.currentsLanguages[LocalizationIndex].S_FileName));
@@ -158,7 +171,14 @@ namespace ArthemyDevelopment.Localization
 
                         case AdvanceOptions.none:
                             Text = transform.GetChild(0).GetComponent<TMP_Text>();
-                            Text.text = LM.GetLocalizationValue(key);
+                            if(Text!=null)
+                                Text.text = LM.GetLocalizationValue(key);
+                            else
+                            {
+                                Text text = transform.GetChild(0).GetComponent<Text>();
+                                text.text = LM.GetLocalizationValue(key);
+                            }
+                           
                             break;
                     }
 
