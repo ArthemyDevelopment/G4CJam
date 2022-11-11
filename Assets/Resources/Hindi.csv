@@ -1,124 +1,124 @@
-﻿---TextKey---;---Translated Text---;---OriginalText---
-Dialog_Intro_1;सैम: मैं कहाँ हूँ? यह कौन सी जगह है?;
-Dialog_Intro_2;"""""...""""""""""""""";
-Dialog_Intro_3;सैम: लगता है कि करने के लिए कुछ नहीं है लेकिन कोशिश करनी पड़ेगी और यहां से निकलना पड़ेगा;Sam: Guess there’s nothing to do but try and get out of here…
-Dialog_Mom_1;माँ: ओह वहाँ तुम हो, सैमी!;"Mom: Oh there you are"", Sammy!"
-Dialog_Mom_2;सैम: माँ!? मां तुम यहां क्या कर रही हो ? यह जगह कौन सी है ?;
-Dialog_Mom_3;माँ: ओह, तुम इसके बारे में चिंता मत करो, मैं बस तुम्हें देखकर खुश हूँ।;"Mom: Oh don’t you worry about that"", I’m just happy to see you."
-Dialog_Mom_4;सैम: माँ... मुझे लगता है कि यह थोड़ी चिंता की बात है।;Sam: Mom… I think this is a little bit more concerning-
-Dialog_Mom_5;माँ: नासमझ मत बनो तुम्हारा आसपास रहना मुझे अच्छा लगता है क्योंकि तुम इतनी मेहनत जो करते हो…;Mom: Don’t be silly. It’s always good to have you around since you work so hard.
-Dialog_Mom_6;सैम: पहले से तैयार रहना बेहतर है;Sam: It’s good to be prepared…
-Dialog_Mom_7;माँ: ठीक है, तो भी... सैमी, हमें अच्छा लगेगा अगर तुम रात के खाने के लिए आओगे;"Mom: Well"", even so… Sammy, we would love to catch up over dinner?"
-Dialog_Mom_8;सैम: मैं... मैं इसके बारे में सोचूंगा, ठीक है, माँ?;"Sam: I… I’ll think about it"", okay, Mom?"
-Dialog_Mom_9;माँ: यह शानदार है! मैं तुम्हारा पसंदीदा भी बनाऊंगी! ओह, इसे अपने साथ ले जाओ। तुम्हें बाद में इसकी आवश्यकता हो सकती है। दूसरों के लिए नजर रखना।;"Mom: That’s fantastic! I’ll even make your favorite! Oh"", take this with you. You might need it later. Keep an eye out for the others."
-Dialog_Mom_10;*आपके पास एक साथी चमगादड़ है*;*You got a companion bat*
-Dialog_Mom_11;सैम: …। धन्यवाद?;Sam: Uh…. thanks?
-Dialog_Mom_12;सैम * विचार करता हुआ*: यह बहुत अजीब है।;Sam *thinking*: This is so weird.
-Dialog_Dad_1;सैम: ओह। आप भी यहीं हैं पापा।;Sam: Oh. You’re here too, Dad.
-Dialog_Dad_2;पिताजी: सैमी! अरे, बेटा!;"Dad: Sammy! Hey there"", Sport!"
-Dialog_Dad_3;सैम: और आप भी डरावना जंगल नहीं देख सकते । बहुत बढ़िया।;Sam: Aaaand you can’t see the spooky forest either. Great.
-Dialog_Dad_4;पापा: क्यों ना हम बाहर चलकर खेलें ? तुमने काफी वक्त से बेसबॉल को आजमाया है।;Dad: How about we go outside and play some catch? You haven’t given baseball a try in awhile.
-Dialog_Dad_5;सैम: ऐसा इसलिए है क्योंकि मुझे टीम के लिए नहीं चुना गया था...;Sam: That’s because I wasn’t picked for the team…
-Dialog_Dad_6;पापा : अरे वो तो भूल ही जाओ ! तुम खेल से प्यार करते हैं! एक झटके को तुम उस चीज़ को बर्बाद नहीं होने दे सकते जिसे तुम बहुत प्यार करते हो। हम एक साथ अभ्यास कर सकते हैं!;Dad: Oh forget about that! You love the sport! You can’t let one setback ruin something you loved so much. We can keep practicing together!
-Dialog_Dad_7;सैम: … आप नाराज नहीं है? मैंने इसे पहले कोशिश नहीं की?;Sam: …You’re not mad I didn’t make it first try?
-Dialog_Dad_8;पिताजी: बिल्कुल नहीं! लेकिन अगर तुम हार मान लोगे तो मैं हो सकता हूं ।;Dad: Of course not! But you will be if you don't  give up.
-Dialog_Dad_9;सैम: ... हाँ। मैं आपके साथ अभ्यास करूँगा!;Sam: Huh… Yeah. I’ll practice with you!
-Dialog_Dad_10;पिताजी: बढ़िया! ओह, यह मत भूलना। मैं तुम्हें बाद में मिलूंगा ।;"Dad: Great! Oh"", don’t forget this. I’ll see you later."
-Dialog_Dad_11;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!*
-Dialog_Dad_12;सैम: ओह। एक और । लगता है इधर-उधर देखते रहना पड़ेगा।;Sam: Oh. Another one. Guess I’ll keep looking around.
-Dialog_Bandit_1;बैंडिट : अरे! सैम! यहाँ पर!;Bandit: Hey! Sam! Over here!
-Dialog_Bandit_2;सैम: बैंडिट? जब से हम चले गए मैंने तुम्हें नहीं देखा ...;Sam: Bandit? I haven’t seen you since we moved…
-Dialog_Bandit_3;बैंडिट :सही;Bandit: Well, yeah… But that doesn’t mean we ever stopped being friends, does it? We can still play games together or watch movies over video call
-Dialog_Bandit_4;सैम: क्या यह एक स्क्रीन पर अजीब नहीं है?;Sam: Isn’t it weird over a screen?
-Dialog_Bandit_5;बैंडिट: अगर तुम इसे बनाते हो तो ही! लेकिन मुझे तुम्हारे साथ घूमने के लिए कोई भी बहाना अच्छा लगेगा! अगर तुम्हें अजीब लगे तो मैं खुद तुम्हारे पास आ जाऊंगा!;Bandit: Only if you make it! But I’d love any excuse to hang out with you! If it is awkward I’ll run all the way over there myself! 
-Dialog_Bandit_6;सैम: हाँ ठीक है... मुझे लगता है कि यह मजेदार है ... मुझे सच में तुम्हारी याद आती है।;Sam: Yeah okay… That sounds fun I guess… I really do miss you.
-Dialog_Bandit_7;बैंडिट:ओह;Bandit: Aww, I miss you too. Let’s keep in touch! Take this with you too!
-Dialog_Bandit_8;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!*
-Dialog_Bandit_9;सैम: हाँ। हम रहेंगे । जल्द ही मिलते हैं!;Sam: Yeah. We will. I’ll see you around
-Dialog_Nicos_1;निकोस : सैम। कैसे हो तुम?;Nicos: Hi Sam. How are ya?
-Dialog_Nicos_2;सैम: निकोस । मैं एक खौफनाक जंगल में फंस गया हूँ। तुम क्या सोचते है?;Sam: Nicos. I’m stuck in a creepy forest. How do you think?
-Dialog_Nicos_3;निकोस : मेह * श्रग्स *;Nicos: Meh *shrugs*
-Dialog_Nicos_4;सैम: यह देख कर खुश रहोगी तुम हमेशा की तरह जवाब देने में सरल हो...;Sam: Glad to see you’re as responsive as ever…
-Dialog_Nicos_5;निकोस : हम दोनों की चीजों पर वास्तव में बड़ी प्रतिक्रिया नहीं होती है। इसलिए जब हमारे पास बैंडिट जैसा दोस्त होता है तो हम बहुत अच्छे से साथ रहते हैं।;Nicos: We both don’t really have big reactions to things. That’s why we get along so well when we have a friend like Bandit.
-Dialog_Nicos_6;सैम: … मुझे लगा कि तुम मेरे रवैये से नाराज़ हो…;Sam: Huh… I guess I thought you were annoyed by my attitude…
-Dialog_Nicos_7;निकोस : तुम्हें ऐसा क्यों  लगता है? मुझे तुम पसंद हो, सैम। तुम्हारा व्यंग्य प्रफुल्लित करने वाला है।;"Nicos: What made you think that? We love that about you"", Sam. Your sarcasm is hilarious"
-Dialog_Nicos_8;सैम: ओह... धन्यवाद।;Sam: Oh… Thanks, man
-Dialog_Nicos_9;निकोस : कोई बात नहीं। क्या तुम मुझे अपने खेल के बारे में बताओ गे जो तुम खेल रही हो कल दोपहर के खाने पर?  वादा करो।;Nicos: No problem. Now, you gotta tell me about that new game you’ve been playing at lunch tomorrow. Promise, dude
-Dialog_Nicos_10;सैम: मैं वादा करता हूँ।;Sam: I promise.
-Dialog_Nicos_11;निकोस : बढ़िया! फिर मिलते हैं। अब इसे भी अपने साथ ले जाओ।;Nicos: Great! I’ll see you then. Now take this with you too.
-Dialog_Nicos_12;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!*
-Dialog_Nicos_13;सैम: हाँ, हाँ , मैं जा रहा हूँ। ;"Sam: Yeah"", yeah I’m going. Loe ya too"
-Dialog_Gabe_1;गेब: वहाँ कौन है?;Gabe: Who goes there?
-Dialog_Gabe_2;सैम: गेब। यह मैं हूँ।;Sam: Gabe. It’s me.
-Dialog_Gabe_3;गेब: कौन?;Gabe: Who?
-Dialog_Gabe_4;सैम सैम।;Sam: Sam.
-Dialog_Gabe_5;गेब: कौन?;Gabe: Who?
-Dialog_Gabe_6;सैम: आपका छात्र?;Sam: Your student?
-Dialog_Gabe_7;गेब: कौन ?;Gabe: WhHoO?
-Dialog_Gabe_8;सैम: मैं तुम्हारे साथ दोबारा आपके साथ नहीं कर रहा हूं।;Sam: I am not doing this with you again.
-Dialog_Gabe_9;गेब: * हंसते हुए * मैं बस तुम्हारे साथ मजाक कर रहा हूँ। तुम बहुत मेहनत कर रहे हो सैम।;Gabe: *chuckles* I’m just messing with you. You’ve been working very hard, Sam
-Dialog_Gabe_10;सैम: हाँ, हाँ। सब मेहनत का नतीजा है और-;"Sam: Yeah"", yeah. All A’s is hard work and-"
-Dialog_Gabe_11;गेब: इतना ही नहीं। मुझे पता है कि परिवर्तन मुश्किल हो सकता है और तब से तुम अपने जीवन में बहुत सी छोटी-छोटी बातों का सामना कर रहे हैं।;Gabe: Not just with that. I know moving can be hard and you’ve been facing a lot of trifles in your life since then.
-Dialog_Gabe_12;सैम: यह ठीक है... मैं ठीक हूँ।;Sam: It’s fine… I’m fine.
-Dialog_Gabe_13;"गेब: तुम ऐसा कह सकते हो, लेकिन वास्तव में, क्या कोई """"ठीक"""" है?";"Gabe: You may say that"", but in reality, is anyone really “fine”"
-Dialog_Gabe_14;सैम: ठीक है बाकी सब ...;Sam: Well everyone else…
-Dialog_Gabe_15;गेब: हर कोई किसी न किसी के साथ संघर्ष करता है, सैम। तुम कभी अकेले नहीं हो। तुम्हें बस देखना है ।;"Gabe: Everyone struggles with something"", Sam. You’re never truly alone. You simply have to look"
-Dialog_Gabe_16;सैम: इसलिए मैंने अपने इकोलोकेशन के साथ अन्य लोगों को देखा है?;Sam: Is… that why I’ve seen other people with my echolocation?
-Dialog_Gabe_17;गेब: शायद। हो सकता है कि बाहर तक पहुँचने से दूसरों को भी ऐसा करने के लिए प्रोत्साहन मिले।;Gabe: Perhaps. Maybe reaching out encourages others to do the same.
-Dialog_Gabe_18;गेब: बिल्कुल । लेकिन अपने संघर्षों का डटकर सामना करना अकेले मुश्किल हो सकता है। क्या तुम्हें सुनिश्चित हैं कि आप पर्याप्त रूप से तैयार महसूस कर रहे हैं?;Sam: I… guess I never thought about it like that. So… can I go home if I go through this area here?
-Dialog_Gabe_19;गेब: तो ठीक है। मैं तुम्हें शुभकामना देता हूं सैम, और मुझे आशा है कि तुम मेरी कक्षा के अंदर और बाहर दोनों जगह प्रयास करते रहेंगे। इसे लो।;"Gabe: Indeed. But facing your struggles head on may be difficult alone. Are you sure you feel prepared enough?"""
-Dialog_Gabe_20;सैम: मुझे अभी पता नहीं है ...;Sam: I’m not sure yet…
-Dialog_Gabe_21;गेब: तो ठीक है। मैं तुम्हें शुभकामना देता हूं सैम, और मुझे आशा है कि तुम मेरी कक्षा के अंदर और बाहर दोनों जगह प्रयास करते रहेंगे। इसे लो।;"Gabe: Alright then. Either way"", I wish you luck Sam, and I hope to keep seeing you strive both inside and outside my classroom. Take thi"
-Dialog_Gabe_22;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!
-Dialog_Gabe_23;सैम: धन्यवाद, गेब;"Sam: Thanks"", Mr. Gabe"
-Dialog_Gabe_24;गेब: कौन? ;Gabe: Who?
-Dialog_Gabe_25;सैम: नहीं।;Sam: NO.
-Dialog_Gabe_26;गेब: * हंसते हुए * तुम्हें चिढ़ाना इतना आसान है। जारी रखो। लेकिन यह मत भूलो कि जरूरत पड़ने पर आप हमेशा शुरुआत से शुरू कर सकते हैं। इन चीजों में आपकी आवश्यकता के अनुसार समय लग सकता है, और यह अंत नहीं है।;"Gabe: *chuckles* You’re so easy to tease. Carry on. But don’t forget that you can always start over if needed. These things can take as long as you need"", and this is not the end"
-Dialog_Gabe_27;सैम: ज़रूर। हरचीज के लिए धन्यवाद। ;Sam: Sure. Thank you for everything. All of you.
-Dialog_Monster_1;राक्षस: तो तुम आखिरकार मेरे पास पहुंच ही गए। मुझे आश्चर्य है कि तुम अपने सिर से बाहर नहीं निकल सकते।;Monster: So you’ve finally made it to me. I’m surprised considering you can’t get out of your own head.
-Dialog_Monster_2;राक्षस: मुझे संदेह है कि यह तुम्हें बहुत दूर ले जाएगा। तुम अपना कमरा आधा समय भी नहीं छोड़ सकते।;Monster: I doubt that’d get you very far. You can’t even leave your room half the time.
-Dialog_Monster_3;राक्षस: और प्रिय बूढ़े पिताजी के बारे में क्या? उन्होंने तुम्हें खेल के बारे में सब कुछ सिखाया और फिर भी तुम टीम नहीं बना सकते? ;Monster: And what about dear old dad? He taught you everything about sports and yet you can’t make the team? How useless!
-Dialog_Monster_4;राक्षस: हम्म। स्थानांतरण की संभावना ने आपको फसा दिया है और अकेले छोड़ दिया है। बेचारा बैंडिट । आप उन्हें फिर कभी नहीं देख पाएंगे।;Monster: Hmm. Moving has likely left you stranded and alone. Poor Bandit. You’ll never see them again
-Dialog_Monster_5;राक्षस: निकोस वास्तव में तुम्हें पसंद नहीं करता है। तुम मतलबी और व्यंग्यात्मक हो। ऐसा दोस्त कौन चाहेगा?;Monster: Nicos doesn’t really like you. You’re mean and sarcastic. Who would want a friend like that?
-Dialog_Monster_6;राक्षस: मिस्टर गेब को तुम सिर्फ इसीलिए पसंद हो क्योंकि तुम कक्षा में सफलता प्राप्त करते हो । यदि तुम सफल नहीं हो सके तो तुम कुछ भी नहीं होगे।;Monster: Mr. Gabe only gets along with you so much because you do so well in his class. You’d be nothing if you couldn’t succeed
-Dialog_Monster_7;राक्षस: उम-;Monster: Um-
-Dialog_Monster_8;राक्षस: आपको सच में लगता है कि वे परवाह करते हैं? कि तुम मायने रखते हो?;Monster: You really think they care? That you matter?
-Dialog_Monster_9;राक्षस: मैं सही हूँ। मैं सभी से यही कह रहा हूं।;Monster: I AM right. That’s what I’ve been telling you all along
-Dialog_Sam_Win_1;;Sam: Well, clearly that’s what I’m trying to do weird… nightmare… blob thingy
-Dialog_Sam_Win_2;सैम: यह एक सुरक्षित जगह है... इसके अलावा जब मैं बाहर आने के लिए तैयार होऊंगा तो मेरी माँ हमेशा मेरा इंतज़ार कर रही होंगी।;
-Dialog_Sam_Win_3;सैम: पिताजी मेरे साथ खेलने में समय बिताते हैं क्योंकि वह मुझसे प्यार करते हैं। ऐसा नहीं है कि वह मेरे माध्यम से सफलता पाना चाहते हैं । ;Sam: Dad spends time playing with me because he loves me. Not so he can succeed through me.
-Dialog_Sam_Win_4;मुझे बेसबॉल पसंद है और मुझे अपने पिता के साथ खेलना पसंद है। मैं इसे मेरे लिए बर्बाद नहीं होने दूंगा।;Sam:  I love baseball and I love playing with my dad. I’m not gonna let that ruin it for me.
-Dialog_Sam_Win_5;सैम: इंटरनेट मौजूद है। लेकिन फिर भी, बैंडिट अभी भी मेरे साथ है और हमारे पास जो मजेदार समय था वह कभी फीका नहीं होगा। भले ही हमारे बीच दूरियां हों।  ;"Sam: The internet exists. But even so"", Bandit is still with me and the fun times we had will never fade. Even if there’s distance between us"
-Dialog_Sam_Win_6;सैम: अगर निकोस ने मुझे स्वीकार नहीं किया कि मैं कौन हूं तो वह शुरू करने के लिए दोस्त नहीं था। लेकिन वह करता है। वह मेरा दोस्त बनना पसंद करता है और मुझे उसका होना पसंद है।;Sam: If Nicos didn’t accept me for who I am then he wasn’t a friend to begin with. But he does. He loves being my friend and I love being his.
-Dialog_Sam_Win_7;सैम: सफल होना मेरी योग्यता के बराबर नहीं है। गेब यह जानते हैं। इसलिए उन्होंने इतने लंबे समय तक मेरा साथ दिया, तब भी जब मैं संघर्ष कर रहा था ।;"Sam: Succeeding doesn’t equate to my worth as a person. Mr. Gabe knows that. That’s why he’s supported me for so long"", even now when I’m struggling"
-Dialog_Sam_Win_8;सैम: असल में... बस इतना ही.. यही मेरा दिमाग मुझे इस पूरे समय दिखा रहा है। यह सिर्फ मिस्टर गेब नहीं है... ;Sam: Actually… that’s it.. That’s what my mind’s been showing me this whole time. It’s not just Mr. Gabe… 
-Dialog_Sam_Win_9;यहां हर कोई मेरा समर्थन करने की कोशिश कर रहा है। मैं बस... देखने के लिए तैयार नहीं था। मदद मांगने को तैयार नहीं था .. लेकिन अब मैं हूं।;Sam: Everyone here has been trying to support me. I just… wasn’t ready to see it. Wasn’t ready to ask for help.. But now I am.
-Dialog_Sam_Win_10;सैम: बेशक मैं करता हूँ। और मैं तुम्हें अब और उपभोग नहीं करने दूँगा। मैं घर जा रहा हूँ।;Sam: Of course I do. And I won’t let you consume me anymore. I’m going home.
-Dialog_Sam_Lose_2;सैम: तुम नहीं जानते कि आप किस बारे में बात कर रहे हैं ...;Sam: You don’t know what you’re talking about…
-Dialog_Sam_Lose_3;सैम: वह बहुत परेशान लग रहे थे।;Sam: He did seem pretty upset.
-Dialog_Sam_Lose_4;सैम: बैंडिट … (उदास चेहरा);Sam: Bandit
-Dialog_Sam_Lose_5;सैम: मैं ऐसा ही हूं... लेकिन...;Sam: It’s just how I am… but…
-Dialog_Sam_Lose_6;सैम:… शायद तुम… ठीक हो…;Sam: … Maybe you’re… right…
-Dialog_Sam_Lose_7;सैम: नहीं.. नहीं!;Sam: No.. NO
-Dialog_Sam_Lose_8;सैम: मैं कहाँ हूँ? यह कौन सी जगह है?;Sam: Where am I? What is this place
-Sialog_KeepTrying;कोशिश करते रहो;Keep Trying
-Whisper_1;तुम्हारे पीछे;Behind you
-Whisper_2;[डरावना आवाज़];[Creapy sounds]
-Whisper_3;कभी-कभी जो चीजें आप परछाई में देखते हैं, वे सिर्फ परछाई से ज्यादा होती हैं;"Somethimes the things you see in shadows are more than just shadows"""
-Whisper_4;कुछ चीजें हैं जिन्हें आप भूलने के लिए पर्याप्त मजबूत नहीं हैं;There are somethings you are just not strongh enough to forge
-Whisper_5;[डरावना आवाज़];[Creapy sounds]
-Whisper_6;मैं वापस आऊंगा;I will return
-Whisper_7;मैं तुम्हें जाने नहीं दूंगा;I'll never let you go
-Whisper_8;वह तुम्हें याद नहीं रखेंगे;They wouldn't miss you
-Whisper_9;मुझे लगता है तुम बेवकूफ हो;I think you are stupid, they think you are stupid, you are worthless, you are pathet
-Whisper_10;मुझे पता है तुम मुझे देख नहीं सकतेमुझे पता है तुम मुझे देख नहीं सकते;
-Whisper_11;तुमने सब खराब कर दिया;you screw everything
-UI_StartGame;खेल शुरू;Start Game
-UI_Resume;फिर शुरू करना;Resume
-UI_Home;घर;Home
-UI_How;कैसे खेलें?;How to Play
-UI_Move;;Walk
-UI_Jump;;Jump
-UI_Echo;;Echolocation
-UI_Talk;;Talk
-UI_Credits;;Credits
+﻿---TextKey---;---Translated Text---;---OriginalText---,,,,
+Dialog_Intro_1;सैम: मैं कहाँ हूँ? यह कौन सी जगह है?;,,,,
+"Dialog_Intro_2;""""""""""..."""""""""""""""""""""""""""""";",,,,
+Dialog_Intro_3;सैम: लगता है कि करने के लिए कुछ नहीं है लेकिन कोशिश करनी पड़ेगी और यहां से निकलना पड़ेगा;Sam: Guess there’s nothing to do but try and get out of here…,,,,
+Dialog_Mom_1;माँ: ओह वहाँ तुम हो," सैमी!;""Mom: Oh there you are"""""," Sammy!""",,
+Dialog_Mom_2;सैम: माँ!? मां तुम यहां क्या कर रही हो ? यह जगह कौन सी है ?;,,,,
+Dialog_Mom_3;माँ: ओह, तुम इसके बारे में चिंता मत करो," मैं बस तुम्हें देखकर खुश हूँ।;""Mom: Oh don’t you worry about that"""""," I’m just happy to see you.""",
+Dialog_Mom_4;सैम: माँ... मुझे लगता है कि यह थोड़ी चिंता की बात है।;Sam: Mom… I think this is a little bit more concerning-,,,,
+Dialog_Mom_5;माँ: नासमझ मत बनो तुम्हारा आसपास रहना मुझे अच्छा लगता है क्योंकि तुम इतनी मेहनत जो करते हो…;Mom: Don’t be silly. It’s always good to have you around since you work so hard.,,,,
+Dialog_Mom_6;सैम: पहले से तैयार रहना बेहतर है;Sam: It’s good to be prepared…,,,,
+Dialog_Mom_7;माँ: ठीक है, तो भी... सैमी," हमें अच्छा लगेगा अगर तुम रात के खाने के लिए आओगे;""Mom: Well""""", even so… Sammy," we would love to catch up over dinner?"""
+Dialog_Mom_8;सैम: मैं... मैं इसके बारे में सोचूंगा, ठीक है," माँ?;""Sam: I… I’ll think about it""""", okay," Mom?"""
+Dialog_Mom_9;माँ: यह शानदार है! मैं तुम्हारा पसंदीदा भी बनाऊंगी! ओह," इसे अपने साथ ले जाओ। तुम्हें बाद में इसकी आवश्यकता हो सकती है। दूसरों के लिए नजर रखना।;""Mom: That’s fantastic! I’ll even make your favorite! Oh"""""," take this with you. You might need it later. Keep an eye out for the others.""",,
+Dialog_Mom_10;*आपके पास एक साथी चमगादड़ है*;*You got a companion bat*,,,,
+Dialog_Mom_11;सैम: …। धन्यवाद?;Sam: Uh…. thanks?,,,,
+Dialog_Mom_12;सैम * विचार करता हुआ*: यह बहुत अजीब है।;Sam *thinking*: This is so weird.,,,,
+Dialog_Dad_1;सैम: ओह। आप भी यहीं हैं पापा।;Sam: Oh. You’re here too, Dad.,,,
+Dialog_Dad_2;पिताजी: सैमी! अरे," बेटा!;""Dad: Sammy! Hey there"""""," Sport!""",,
+Dialog_Dad_3;सैम: और आप भी डरावना जंगल नहीं देख सकते । बहुत बढ़िया।;Sam: Aaaand you can’t see the spooky forest either. Great.,,,,
+Dialog_Dad_4;पापा: क्यों ना हम बाहर चलकर खेलें ? तुमने काफी वक्त से बेसबॉल को आजमाया है।;Dad: How about we go outside and play some catch? You haven’t given baseball a try in awhile.,,,,
+Dialog_Dad_5;सैम: ऐसा इसलिए है क्योंकि मुझे टीम के लिए नहीं चुना गया था...;Sam: That’s because I wasn’t picked for the team…,,,,
+Dialog_Dad_6;पापा : अरे वो तो भूल ही जाओ ! तुम खेल से प्यार करते हैं! एक झटके को तुम उस चीज़ को बर्बाद नहीं होने दे सकते जिसे तुम बहुत प्यार करते हो। हम एक साथ अभ्यास कर सकते हैं!;Dad: Oh forget about that! You love the sport! You can’t let one setback ruin something you loved so much. We can keep practicing together!,,,,
+Dialog_Dad_7;सैम: … आप नाराज नहीं है? मैंने इसे पहले कोशिश नहीं की?;Sam: …You’re not mad I didn’t make it first try?,,,,
+Dialog_Dad_8;पिताजी: बिल्कुल नहीं! लेकिन अगर तुम हार मान लोगे तो मैं हो सकता हूं ।;Dad: Of course not! But you will be if you don't  give up.,,,,
+Dialog_Dad_9;सैम: ... हाँ। मैं आपके साथ अभ्यास करूँगा!;Sam: Huh… Yeah. I’ll practice with you!,,,,
+Dialog_Dad_10;पिताजी: बढ़िया! ओह," यह मत भूलना। मैं तुम्हें बाद में मिलूंगा ।;""Dad: Great! Oh"""""," don’t forget this. I’ll see you later.""",,
+Dialog_Dad_11;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!*,,,,
+Dialog_Dad_12;सैम: ओह। एक और । लगता है इधर-उधर देखते रहना पड़ेगा।;Sam: Oh. Another one. Guess I’ll keep looking around.,,,,
+Dialog_Bandit_1;बैंडिट : अरे! सैम! यहाँ पर!;Bandit: Hey! Sam! Over here!,,,,
+Dialog_Bandit_2;सैम: बैंडिट? जब से हम चले गए मैंने तुम्हें नहीं देखा ...;Sam: Bandit? I haven’t seen you since we moved…,,,,
+Dialog_Bandit_3;बैंडिट :सही;Bandit: Well, yeah… But that doesn’t mean we ever stopped being friends, does it? We can still play games together or watch movies over video call,,
+Dialog_Bandit_4;सैम: क्या यह एक स्क्रीन पर अजीब नहीं है?;Sam: Isn’t it weird over a screen?,,,,
+Dialog_Bandit_5;बैंडिट: अगर तुम इसे बनाते हो तो ही! लेकिन मुझे तुम्हारे साथ घूमने के लिए कोई भी बहाना अच्छा लगेगा! अगर तुम्हें अजीब लगे तो मैं खुद तुम्हारे पास आ जाऊंगा!;Bandit: Only if you make it! But I’d love any excuse to hang out with you! If it is awkward I’ll run all the way over there myself! ,,,,
+Dialog_Bandit_6;सैम: हाँ ठीक है... मुझे लगता है कि यह मजेदार है ... मुझे सच में तुम्हारी याद आती है।;Sam: Yeah okay… That sounds fun I guess… I really do miss you.,,,,
+Dialog_Bandit_7;बैंडिट:ओह;Bandit: Aww, I miss you too. Let’s keep in touch! Take this with you too!,,,
+Dialog_Bandit_8;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!*,,,,
+Dialog_Bandit_9;सैम: हाँ। हम रहेंगे । जल्द ही मिलते हैं!;Sam: Yeah. We will. I’ll see you around,,,,
+Dialog_Nicos_1;निकोस : सैम। कैसे हो तुम?;Nicos: Hi Sam. How are ya?,,,,
+Dialog_Nicos_2;सैम: निकोस । मैं एक खौफनाक जंगल में फंस गया हूँ। तुम क्या सोचते है?;Sam: Nicos. I’m stuck in a creepy forest. How do you think?,,,,
+Dialog_Nicos_3;निकोस : मेह * श्रग्स *;Nicos: Meh *shrugs*,,,,
+Dialog_Nicos_4;सैम: यह देख कर खुश रहोगी तुम हमेशा की तरह जवाब देने में सरल हो...;Sam: Glad to see you’re as responsive as ever…,,,,
+Dialog_Nicos_5;निकोस : हम दोनों की चीजों पर वास्तव में बड़ी प्रतिक्रिया नहीं होती है। इसलिए जब हमारे पास बैंडिट जैसा दोस्त होता है तो हम बहुत अच्छे से साथ रहते हैं।;Nicos: We both don’t really have big reactions to things. That’s why we get along so well when we have a friend like Bandit.,,,,
+Dialog_Nicos_6;सैम: … मुझे लगा कि तुम मेरे रवैये से नाराज़ हो…;Sam: Huh… I guess I thought you were annoyed by my attitude…,,,,
+Dialog_Nicos_7;निकोस : तुम्हें ऐसा क्यों  लगता है? मुझे तुम पसंद हो," सैम। तुम्हारा व्यंग्य प्रफुल्लित करने वाला है।;""Nicos: What made you think that? We love that about you"""""," Sam. Your sarcasm is hilarious""",,
+Dialog_Nicos_8;सैम: ओह... धन्यवाद।;Sam: Oh… Thanks, man,,,
+Dialog_Nicos_9;निकोस : कोई बात नहीं। क्या तुम मुझे अपने खेल के बारे में बताओ गे जो तुम खेल रही हो कल दोपहर के खाने पर?  वादा करो।;Nicos: No problem. Now, you gotta tell me about that new game you’ve been playing at lunch tomorrow. Promise, dude,,
+Dialog_Nicos_10;सैम: मैं वादा करता हूँ।;Sam: I promise.,,,,
+Dialog_Nicos_11;निकोस : बढ़िया! फिर मिलते हैं। अब इसे भी अपने साथ ले जाओ।;Nicos: Great! I’ll see you then. Now take this with you too.,,,,
+Dialog_Nicos_12;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!*,,,,
+Dialog_Nicos_13;सैम: हाँ, हाँ ," मैं जा रहा हूँ। ;""Sam: Yeah"""""," yeah I’m going. Loe ya too""",
+Dialog_Gabe_1;गेब: वहाँ कौन है?;Gabe: Who goes there?,,,,
+Dialog_Gabe_2;सैम: गेब। यह मैं हूँ।;Sam: Gabe. It’s me.,,,,
+Dialog_Gabe_3;गेब: कौन?;Gabe: Who?,,,,
+Dialog_Gabe_4;सैम सैम।;Sam: Sam.,,,,
+Dialog_Gabe_5;गेब: कौन?;Gabe: Who?,,,,
+Dialog_Gabe_6;सैम: आपका छात्र?;Sam: Your student?,,,,
+Dialog_Gabe_7;गेब: कौन ?;Gabe: WhHoO?,,,,
+Dialog_Gabe_8;सैम: मैं तुम्हारे साथ दोबारा आपके साथ नहीं कर रहा हूं।;Sam: I am not doing this with you again.,,,,
+Dialog_Gabe_9;गेब: * हंसते हुए * मैं बस तुम्हारे साथ मजाक कर रहा हूँ। तुम बहुत मेहनत कर रहे हो सैम।;Gabe: *chuckles* I’m just messing with you. You’ve been working very hard, Sam,,,
+Dialog_Gabe_10;सैम: हाँ," हाँ। सब मेहनत का नतीजा है और-;""Sam: Yeah"""""," yeah. All A’s is hard work and-""",,
+Dialog_Gabe_11;गेब: इतना ही नहीं। मुझे पता है कि परिवर्तन मुश्किल हो सकता है और तब से तुम अपने जीवन में बहुत सी छोटी-छोटी बातों का सामना कर रहे हैं।;Gabe: Not just with that. I know moving can be hard and you’ve been facing a lot of trifles in your life since then.,,,,
+Dialog_Gabe_12;सैम: यह ठीक है... मैं ठीक हूँ।;Sam: It’s fine… I’m fine.,,,,
+"Dialog_Gabe_13;""गेब: तुम ऐसा कह सकते हो", लेकिन वास्तव में," क्या कोई """"""""ठीक"""""""" है?"";""Gabe: You may say that""""", but in reality," is anyone really “fine”"""
+Dialog_Gabe_14;सैम: ठीक है बाकी सब ...;Sam: Well everyone else…,,,,
+Dialog_Gabe_15;गेब: हर कोई किसी न किसी के साथ संघर्ष करता है," सैम। तुम कभी अकेले नहीं हो। तुम्हें बस देखना है ।;""Gabe: Everyone struggles with something"""""," Sam. You’re never truly alone. You simply have to look""",,
+Dialog_Gabe_16;सैम: इसलिए मैंने अपने इकोलोकेशन के साथ अन्य लोगों को देखा है?;Sam: Is… that why I’ve seen other people with my echolocation?,,,,
+Dialog_Gabe_17;गेब: शायद। हो सकता है कि बाहर तक पहुँचने से दूसरों को भी ऐसा करने के लिए प्रोत्साहन मिले।;Gabe: Perhaps. Maybe reaching out encourages others to do the same.,,,,
+Dialog_Gabe_18;गेब: बिल्कुल । लेकिन अपने संघर्षों का डटकर सामना करना अकेले मुश्किल हो सकता है। क्या तुम्हें सुनिश्चित हैं कि आप पर्याप्त रूप से तैयार महसूस कर रहे हैं?;Sam: I… guess I never thought about it like that. So… can I go home if I go through this area here?,,,,
+Dialog_Gabe_19;गेब: तो ठीक है। मैं तुम्हें शुभकामना देता हूं सैम," और मुझे आशा है कि तुम मेरी कक्षा के अंदर और बाहर दोनों जगह प्रयास करते रहेंगे। इसे लो।;""Gabe: Indeed. But facing your struggles head on may be difficult alone. Are you sure you feel prepared enough?""""""",,,
+Dialog_Gabe_20;सैम: मुझे अभी पता नहीं है ...;Sam: I’m not sure yet…,,,,
+Dialog_Gabe_21;गेब: तो ठीक है। मैं तुम्हें शुभकामना देता हूं सैम," और मुझे आशा है कि तुम मेरी कक्षा के अंदर और बाहर दोनों जगह प्रयास करते रहेंगे। इसे लो।;""Gabe: Alright then. Either way""""", I wish you luck Sam," and I hope to keep seeing you strive both inside and outside my classroom. Take thi""",
+Dialog_Gabe_22;*आपके पास एक साथी चमगादड़ है!*;*You got a companion bat!,,,,
+Dialog_Gabe_23;सैम: धन्यवाद," गेब;""Sam: Thanks"""""," Mr. Gabe""",,
+Dialog_Gabe_24;गेब: कौन? ;Gabe: Who?,,,,
+Dialog_Gabe_25;सैम: नहीं।;Sam: NO.,,,,
+Dialog_Gabe_26;गेब: * हंसते हुए * तुम्हें चिढ़ाना इतना आसान है। जारी रखो। लेकिन यह मत भूलो कि जरूरत पड़ने पर आप हमेशा शुरुआत से शुरू कर सकते हैं। इन चीजों में आपकी आवश्यकता के अनुसार समय लग सकता है," और यह अंत नहीं है।;""Gabe: *chuckles* You’re so easy to tease. Carry on. But don’t forget that you can always start over if needed. These things can take as long as you need"""""," and this is not the end""",,
+Dialog_Gabe_27;सैम: ज़रूर। हरचीज के लिए धन्यवाद। ;Sam: Sure. Thank you for everything. All of you.,,,,
+Dialog_Monster_1;राक्षस: तो तुम आखिरकार मेरे पास पहुंच ही गए। मुझे आश्चर्य है कि तुम अपने सिर से बाहर नहीं निकल सकते।;Monster: So you’ve finally made it to me. I’m surprised considering you can’t get out of your own head.,,,,
+Dialog_Monster_2;राक्षस: मुझे संदेह है कि यह तुम्हें बहुत दूर ले जाएगा। तुम अपना कमरा आधा समय भी नहीं छोड़ सकते।;Monster: I doubt that’d get you very far. You can’t even leave your room half the time.,,,,
+Dialog_Monster_3;राक्षस: और प्रिय बूढ़े पिताजी के बारे में क्या? उन्होंने तुम्हें खेल के बारे में सब कुछ सिखाया और फिर भी तुम टीम नहीं बना सकते? ;Monster: And what about dear old dad? He taught you everything about sports and yet you can’t make the team? How useless!,,,,
+Dialog_Monster_4;राक्षस: हम्म। स्थानांतरण की संभावना ने आपको फसा दिया है और अकेले छोड़ दिया है। बेचारा बैंडिट । आप उन्हें फिर कभी नहीं देख पाएंगे।;Monster: Hmm. Moving has likely left you stranded and alone. Poor Bandit. You’ll never see them again,,,,
+Dialog_Monster_5;राक्षस: निकोस वास्तव में तुम्हें पसंद नहीं करता है। तुम मतलबी और व्यंग्यात्मक हो। ऐसा दोस्त कौन चाहेगा?;Monster: Nicos doesn’t really like you. You’re mean and sarcastic. Who would want a friend like that?,,,,
+Dialog_Monster_6;राक्षस: मिस्टर गेब को तुम सिर्फ इसीलिए पसंद हो क्योंकि तुम कक्षा में सफलता प्राप्त करते हो । यदि तुम सफल नहीं हो सके तो तुम कुछ भी नहीं होगे।;Monster: Mr. Gabe only gets along with you so much because you do so well in his class. You’d be nothing if you couldn’t succeed,,,,
+Dialog_Monster_7;राक्षस: उम-;Monster: Um-,,,,
+Dialog_Monster_8;राक्षस: आपको सच में लगता है कि वे परवाह करते हैं? कि तुम मायने रखते हो?;Monster: You really think they care? That you matter?,,,,
+Dialog_Monster_9;राक्षस: मैं सही हूँ। मैं सभी से यही कह रहा हूं।;Monster: I AM right. That’s what I’ve been telling you all along,,,,
+Dialog_Sam_Win_1;;Sam: Well, clearly that’s what I’m trying to do weird… nightmare… blob thingy,,,
+Dialog_Sam_Win_2;सैम: यह एक सुरक्षित जगह है... इसके अलावा जब मैं बाहर आने के लिए तैयार होऊंगा तो मेरी माँ हमेशा मेरा इंतज़ार कर रही होंगी।;,,,,
+Dialog_Sam_Win_3;सैम: पिताजी मेरे साथ खेलने में समय बिताते हैं क्योंकि वह मुझसे प्यार करते हैं। ऐसा नहीं है कि वह मेरे माध्यम से सफलता पाना चाहते हैं । ;Sam: Dad spends time playing with me because he loves me. Not so he can succeed through me.,,,,
+Dialog_Sam_Win_4;मुझे बेसबॉल पसंद है और मुझे अपने पिता के साथ खेलना पसंद है। मैं इसे मेरे लिए बर्बाद नहीं होने दूंगा।;Sam:  I love baseball and I love playing with my dad. I’m not gonna let that ruin it for me.,,,,
+Dialog_Sam_Win_5;सैम: इंटरनेट मौजूद है। लेकिन फिर भी," बैंडिट अभी भी मेरे साथ है और हमारे पास जो मजेदार समय था वह कभी फीका नहीं होगा। भले ही हमारे बीच दूरियां हों।  ;""Sam: The internet exists. But even so"""""," Bandit is still with me and the fun times we had will never fade. Even if there’s distance between us""",,
+Dialog_Sam_Win_6;सैम: अगर निकोस ने मुझे स्वीकार नहीं किया कि मैं कौन हूं तो वह शुरू करने के लिए दोस्त नहीं था। लेकिन वह करता है। वह मेरा दोस्त बनना पसंद करता है और मुझे उसका होना पसंद है।;Sam: If Nicos didn’t accept me for who I am then he wasn’t a friend to begin with. But he does. He loves being my friend and I love being his.,,,,
+Dialog_Sam_Win_7;सैम: सफल होना मेरी योग्यता के बराबर नहीं है। गेब यह जानते हैं। इसलिए उन्होंने इतने लंबे समय तक मेरा साथ दिया," तब भी जब मैं संघर्ष कर रहा था ।;""Sam: Succeeding doesn’t equate to my worth as a person. Mr. Gabe knows that. That’s why he’s supported me for so long"""""," even now when I’m struggling""",,
+Dialog_Sam_Win_8;सैम: असल में... बस इतना ही.. यही मेरा दिमाग मुझे इस पूरे समय दिखा रहा है। यह सिर्फ मिस्टर गेब नहीं है... ;Sam: Actually… that’s it.. That’s what my mind’s been showing me this whole time. It’s not just Mr. Gabe… ,,,,
+Dialog_Sam_Win_9;यहां हर कोई मेरा समर्थन करने की कोशिश कर रहा है। मैं बस... देखने के लिए तैयार नहीं था। मदद मांगने को तैयार नहीं था .. लेकिन अब मैं हूं।;Sam: Everyone here has been trying to support me. I just… wasn’t ready to see it. Wasn’t ready to ask for help.. But now I am.,,,,
+Dialog_Sam_Win_10;सैम: बेशक मैं करता हूँ। और मैं तुम्हें अब और उपभोग नहीं करने दूँगा। मैं घर जा रहा हूँ।;Sam: Of course I do. And I won’t let you consume me anymore. I’m going home.,,,,
+Dialog_Sam_Lose_2;सैम: तुम नहीं जानते कि आप किस बारे में बात कर रहे हैं ...;Sam: You don’t know what you’re talking about…,,,,
+Dialog_Sam_Lose_3;सैम: वह बहुत परेशान लग रहे थे।;Sam: He did seem pretty upset.,,,,
+Dialog_Sam_Lose_4;सैम: बैंडिट … (उदास चेहरा);Sam: Bandit,,,,
+Dialog_Sam_Lose_5;सैम: मैं ऐसा ही हूं... लेकिन...;Sam: It’s just how I am… but…,,,,
+Dialog_Sam_Lose_6;सैम:… शायद तुम… ठीक हो…;Sam: … Maybe you’re… right…,,,,
+Dialog_Sam_Lose_7;सैम: नहीं.. नहीं!;Sam: No.. NO,,,,
+Dialog_Sam_Lose_8;सैम: मैं कहाँ हूँ? यह कौन सी जगह है?;Sam: Where am I? What is this place,,,,
+Sialog_KeepTrying;कोशिश करते रहो;Keep Trying,,,,
+Whisper_1;तुम्हारे पीछे;Behind you,,,,
+Whisper_2;[डरावना आवाज़];[Creapy sounds],,,,
+Whisper_3;कभी-कभी जो चीजें आप परछाई में देखते हैं," वे सिर्फ परछाई से ज्यादा होती हैं;""Somethimes the things you see in shadows are more than just shadows""""""",,,
+Whisper_4;कुछ चीजें हैं जिन्हें आप भूलने के लिए पर्याप्त मजबूत नहीं हैं;There are somethings you are just not strongh enough to forge,,,,
+Whisper_5;[डरावना आवाज़];[Creapy sounds],,,,
+Whisper_6;मैं वापस आऊंगा;I will return,,,,
+Whisper_7;मैं तुम्हें जाने नहीं दूंगा;I'll never let you go,,,,
+Whisper_8;वह तुम्हें याद नहीं रखेंगे;They wouldn't miss you,,,,
+Whisper_9;मुझे लगता है तुम बेवकूफ हो;I think you are stupid, they think you are stupid, you are worthless, you are pathet,
+Whisper_10;मुझे पता है तुम मुझे देख नहीं सकतेमुझे पता है तुम मुझे देख नहीं सकते;,,,,
+Whisper_11;तुमने सब खराब कर दिया;you screw everything,,,,
+UI_StartGame;खेल शुरू;Start Game,,,,
+UI_Resume;फिर शुरू करना;Resume,,,,
+UI_Home;घर;Home,,,,
+UI_How;कैसे खेलें?;How to Play,,,,
+UI_Move;चलना;Walk,,,,
+UI_Jump;कूदना;Jump,,,,
+UI_Ecolocation;एकोलोकेशन;Ecolocation,,,,
+UI_Talk;बात करना;Talk ,,,,
+UI_Credits;क्रेडिट;Credits,,,,
