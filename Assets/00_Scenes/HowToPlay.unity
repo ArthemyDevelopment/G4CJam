@@ -209,7 +209,6 @@ GameObject:
   m_Component:
   - component: {fileID: 144228136}
   - component: {fileID: 144228139}
-  - component: {fileID: 144228138}
   - component: {fileID: 144228137}
   m_Layer: 5
   m_Name: Hindi
@@ -271,41 +270,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
---- !u!114 &144228138
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 144228135}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ec234e199a763b43ae635ef329ef7ef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LM: {fileID: 0}
-  SetOnStart: 1
-  B_alreadyStart: 0
-  AffectedComponents: 0
-  key: UI_Talk
-  keys: []
-  useAdvanceOptions: 0
-  advanceOptions: 0
-  LocalizationIndex: 0
-  rememberConfiguration: 0
-  OnLanguageSelection:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerAutomatically: 0
-  triggerIndex: 0
-  OnCustomEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  multipleStrings: 0
-  ForCustomComponent:
-    m_PersistentCalls:
-      m_Calls: []
+  m_Text: "\u092C\u093E\u0924 \u0915\u0930\u0928\u093E\r"
 --- !u!222 &144228139
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -760,7 +725,6 @@ GameObject:
   m_Component:
   - component: {fileID: 469423817}
   - component: {fileID: 469423820}
-  - component: {fileID: 469423819}
   - component: {fileID: 469423818}
   m_Layer: 5
   m_Name: Hindi
@@ -822,41 +786,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
---- !u!114 &469423819
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 469423816}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ec234e199a763b43ae635ef329ef7ef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LM: {fileID: 0}
-  SetOnStart: 1
-  B_alreadyStart: 0
-  AffectedComponents: 0
-  key: UI_Jump
-  keys: []
-  useAdvanceOptions: 0
-  advanceOptions: 0
-  LocalizationIndex: 0
-  rememberConfiguration: 0
-  OnLanguageSelection:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerAutomatically: 0
-  triggerIndex: 0
-  OnCustomEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  multipleStrings: 0
-  ForCustomComponent:
-    m_PersistentCalls:
-      m_Calls: []
+  m_Text: "\u0915\u0942\u0926\u0928\u093E\r"
 --- !u!222 &469423820
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1970,7 +1900,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1547592751}
   - component: {fileID: 1547592754}
-  - component: {fileID: 1547592753}
   - component: {fileID: 1547592752}
   m_Layer: 5
   m_Name: Hindi
@@ -2032,41 +1961,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
---- !u!114 &1547592753
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1547592750}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ec234e199a763b43ae635ef329ef7ef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LM: {fileID: 0}
-  SetOnStart: 1
-  B_alreadyStart: 0
-  AffectedComponents: 0
-  key: UI_Move
-  keys: []
-  useAdvanceOptions: 0
-  advanceOptions: 0
-  LocalizationIndex: 0
-  rememberConfiguration: 0
-  OnLanguageSelection:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerAutomatically: 0
-  triggerIndex: 0
-  OnCustomEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  multipleStrings: 0
-  ForCustomComponent:
-    m_PersistentCalls:
-      m_Calls: []
+  m_Text: "\u091A\u0932\u0928\u093E\r"
 --- !u!222 &1547592754
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2684,7 +2579,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2031291084}
   - component: {fileID: 2031291087}
-  - component: {fileID: 2031291086}
   - component: {fileID: 2031291085}
   m_Layer: 5
   m_Name: Hindi
@@ -2746,41 +2640,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
---- !u!114 &2031291086
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2031291083}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ec234e199a763b43ae635ef329ef7ef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LM: {fileID: 0}
-  SetOnStart: 1
-  B_alreadyStart: 0
-  AffectedComponents: 0
-  key: UI_Echo
-  keys: []
-  useAdvanceOptions: 0
-  advanceOptions: 0
-  LocalizationIndex: 0
-  rememberConfiguration: 0
-  OnLanguageSelection:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerAutomatically: 0
-  triggerIndex: 0
-  OnCustomEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  multipleStrings: 0
-  ForCustomComponent:
-    m_PersistentCalls:
-      m_Calls: []
+  m_Text: "\u090F\u0915\u094B\u0932\u094B\u0915\u0947\u0936\u0928\r"
 --- !u!222 &2031291087
 CanvasRenderer:
   m_ObjectHideFlags: 0

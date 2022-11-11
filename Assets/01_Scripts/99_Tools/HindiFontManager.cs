@@ -1,18 +1,20 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HindiFontManager : MonoBehaviour
+public class HindiFontManager : SingletonManager<HindiFontManager>
 {
-    // Start is called before the first frame update
-    void Start()
+    public bool IsHindi;
+
+
+    private void Awake()
     {
-        
+        init();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void SetHindi()
     {
-        
+        IsHindi = true;
     }
 }

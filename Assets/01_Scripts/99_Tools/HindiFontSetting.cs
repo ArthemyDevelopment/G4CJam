@@ -9,11 +9,9 @@ public class HindiFontSetting : MonoBehaviour
     public static int HindiIndex= 2;
     private void Awake()
     {
-        if (PlayerPrefs.HasKey("ADLocalizationIndex"))
-        {
-            int temp= PlayerPrefs.GetInt("ADLocalizationIndex");
+        
 
-            if (temp == HindiIndex)
+            if (HindiFontManager.current.IsHindi)
             {
                 
                 Hindi.gameObject.SetActive(true);
@@ -26,6 +24,6 @@ public class HindiFontSetting : MonoBehaviour
                 
             }
             
-        }
+        
     }
 }

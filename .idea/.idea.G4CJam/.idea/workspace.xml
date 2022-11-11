@@ -4,15 +4,21 @@
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameInit.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/HowToPlay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/HowToPlay.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/WhisperSubController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/WhisperSubController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/HideWhispers.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/HideWhispers.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/IdleHide.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/IdleHide.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/IdleShow.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/IdleShow.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/ShowWhispers.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/05_Animations/00_Whispers/ShowWhispers.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Hindi.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Hindi.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.connect.share/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.connect.share/Settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connectwebgl.zip" beforeDir="false" afterPath="$PROJECT_DIR$/connectwebgl.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +113,7 @@
       <workItem from="1667932052357" duration="11043000" />
       <workItem from="1668006660356" duration="18861000" />
       <workItem from="1668085421624" duration="2904000" />
-      <workItem from="1668108343347" duration="9131000" />
+      <workItem from="1668108343347" duration="11105000" />
     </task>
     <servers />
   </component>
