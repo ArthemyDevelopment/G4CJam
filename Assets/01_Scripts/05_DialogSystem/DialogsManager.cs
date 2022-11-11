@@ -17,6 +17,7 @@ public class DialogsManager : SingletonManager<DialogsManager>
     private Animator DialogAnimation;
     public Image CharacterIcon;
     public LocalizationObject DialogText;
+    public LocalizationObject DialogTextHindi;
     public bool isPlaying;
     public WhisperController whispers;
     private List<Dialog> currDialogs=new List<Dialog>();
@@ -63,8 +64,16 @@ public class DialogsManager : SingletonManager<DialogsManager>
         if (currDialogIndex < currDialogs.Count)
         {
             CharacterIcon.sprite = currDialogs[currDialogIndex].DialogCharacter;
-            DialogText.key = currDialogs[currDialogIndex].DialogKey;
-            DialogText.SetLocalizedObject();
+            if (PlayerPrefs.GetInt("ADLocalizationIndex") != 2)
+            {
+                DialogText.key = currDialogs[currDialogIndex].DialogKey;
+                DialogText.SetLocalizedObject();
+            }
+            else
+            {
+                DialogTextHindi.key = currDialogs[currDialogIndex].DialogKey;
+                DialogTextHindi.SetLocalizedObject();
+            }
             currText = TMPtext.text;
             if (currDialogs[currDialogIndex].voiceAudio != null)
             {

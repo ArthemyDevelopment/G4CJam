@@ -8,6 +8,7 @@ public class WhisperSubController : MonoBehaviour
 {
     private Animator WhispersAnim;
     public LocalizationObject whispersText;
+    public LocalizationObject whispersTextHindi;
 
     private Coroutine currHide;
     private void Awake()
@@ -17,8 +18,17 @@ public class WhisperSubController : MonoBehaviour
 
     public void SetWhispersSub(float duration, string key)
     {
-        whispersText.key = key;
-        whispersText.SetLocalizedObject();
+        if (PlayerPrefs.GetInt("ADLocalizationIndex") != 2)
+        {
+            whispersText.key = key;
+            whispersText.SetLocalizedObject();
+        }
+        else
+        {
+            whispersTextHindi.key = key;
+            whispersTextHindi.SetLocalizedObject();
+        }
+
         WhispersAnim.Play("ShowWhispers");
         currHide=StartCoroutine(HideSubs(duration));
 

@@ -21,8 +21,8 @@ public class HindiFontSetting : MonoBehaviour
             }
             else
             {
-                Hindi.gameObject.SetActive(true);
-                Latin.gameObject.SetActive(false);
+                Hindi.gameObject.SetActive(false);
+                Latin.gameObject.SetActive(true);
                 
             }
             

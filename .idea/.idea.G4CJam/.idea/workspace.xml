@@ -3,13 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="70a42675-da8d-4048-a89b-0f5cbf205302" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.G4CJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/CreditsScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/Movement2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/00_Player/Movement2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/02_PickUpElements/PickUpElementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/HowToPlay.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/HowToPlay.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/00_Scenes/StartScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/DialogsManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ResonanceAudio/Resources/MusicBats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ResonanceAudio/Resources/MusicBats.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/English.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/English.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/WhisperSubController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/05_DialogSystem/WhisperSubController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/01_Scripts/99_Tools/HindiFontSetting.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +107,7 @@
       <workItem from="1667932052357" duration="11043000" />
       <workItem from="1668006660356" duration="18861000" />
       <workItem from="1668085421624" duration="2904000" />
-      <workItem from="1668108343347" duration="7395000" />
+      <workItem from="1668108343347" duration="9131000" />
     </task>
     <servers />
   </component>
